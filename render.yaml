@@ -3,9 +3,8 @@ services:
     name: kannada-v3-backend
     env: node
     plan: free
-    rootDir: server
-    buildCommand: npm install && npm run build
-    startCommand: npm run start
+    buildCommand: npm install && cd server && npm install && npm run build
+    startCommand: node server/dist/server.js
     envVars:
       - key: NODE_ENV
         value: production
@@ -17,3 +16,5 @@ services:
         value: gemini-1.5-flash
       - key: GEMINI_API_KEY
         sync: false
+      - key: CLIENT_ORIGIN
+        value: "*"
