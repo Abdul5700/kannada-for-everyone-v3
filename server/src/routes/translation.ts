@@ -24,10 +24,12 @@ router.post('/', aiLimiter, asyncHandler(async (req: Request, res: Response) => 
   let provider = getAIProvider();
   let result;
   let usedFallback = false;
+  let aiErrorMsg = '';
   try {
     result = await provider.translate(parsed.data as any);
   } catch (aiErr: any) {
-    console.error('[translate] AI provider error, falling back to mock:', aiErr?.message);
+    aiErrorMsg = aiErr?.message || String(aiErr);
+    console.error('[translate] AI provider error, falling back to mock:', aiErrorMsg);
     provider = new MockAIProvider();
     result = await provider.translate(parsed.data as any);
     usedFallback = true;
@@ -40,7 +42,7 @@ router.post('/', aiLimiter, asyncHandler(async (req: Request, res: Response) => 
       direction: parsed.data.direction,
       context: parsed.data.context,
       source: usedFallback ? 'mock-fallback' : provider.name,
-      warning: usedFallback ? '⚠️ AI temporarily unavailable. Showing mock response. Check GEMINI_API_KEY on server.' : result.warning,
+      warning: usedFallback ? `⚠️ AI Fallback: ${aiErrorMsg}` : result.warning,
     },
   });
 }));

@@ -11,6 +11,7 @@ router.get('/health', (_req, res) => {
       service: 'Kannada for Everyone API v3.0',
       aiProvider: config.aiProvider,
       geminiConfigured: isGeminiConfigured(),
+      geminiModel: config.geminiModel,
       timestamp: new Date().toISOString(),
     },
   });
