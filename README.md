@@ -27,10 +27,20 @@
 | 📦 **GitHub Repository** | https://github.com/Abdul5700/kannada-for-everyone-v3 |
 
 ---
+# Problem Statement 1: Kannada for Everyone
 
-## 📋 Problem Statement
+**Category:** Language Learning
 
-Kannada, a classical South Indian language spoken by over 60 million people, is **severely underrepresented in digital language learning tools**. Students from Classes 1–10 in Karnataka learning Kannada as a subject, as well as adult learners and non-Kannada speakers living in Karnataka, have very few structured, accessible, and modern tools to learn the language.
+**Problem Statement:**
+
+Develop an interactive platform that helps non-Kannada speakers learn practical Kannada through everyday conversations, situations, vocabulary, and guided practice.
+
+**Objective:**
+
+Make Kannada learning accessible and engaging through English translations, vocabulary cards, interactive quizzes, and real-life conversation examples.
+
+**Project Title:** Kannada for Everyone v3.0
+
 
 Existing solutions suffer from:
 - 📵 **No AI assistance** — no personalised explanations or adaptive content
