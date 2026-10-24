@@ -11,7 +11,7 @@ export const config = {
   databaseUrl: process.env.DATABASE_URL || './data/kannada.db',
   aiProvider: (process.env.AI_PROVIDER || 'mock') as 'gemini' | 'mock',
   geminiApiKey: process.env.GEMINI_API_KEY || '',
-  geminiModel: process.env.GEMINI_MODEL || 'gemini-1.5-flash',
+  geminiModel: process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite',
   nodeEnv: process.env.NODE_ENV || 'development',
   isProduction: process.env.NODE_ENV === 'production',
 };

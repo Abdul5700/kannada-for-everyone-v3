@@ -36,12 +36,29 @@ export class GeminiProvider implements AIProvider {
   }
 
   private async ask(prompt: string, maxOutputTokens?: number): Promise<string> {
-    const model = this.genAI.getGenerativeModel({
-      model: this.modelName,
-      generationConfig: maxOutputTokens ? { maxOutputTokens } : undefined,
-    });
-    const result = await model.generateContent(prompt);
-    return result.response.text();
+    try {
+      const model = this.genAI.getGenerativeModel({
+        model: this.modelName,
+        generationConfig: maxOutputTokens ? { maxOutputTokens } : undefined,
+      });
+      const result = await model.generateContent(prompt);
+      return result.response.text();
+    } catch (err: any) {
+      const msg = err?.message || String(err);
+      if (msg.includes('404') || msg.includes('not found') || msg.includes('no longer available')) {
+        throw new Error(`Configured Gemini model "${this.modelName}" is not available or deprecated. Update GEMINI_MODEL (e.g. gemini-3.1-flash-lite).`);
+      }
+      if (msg.includes('401') || msg.includes('API key') || msg.includes('unauthenticated')) {
+        throw new Error('Gemini API key is invalid or unauthorized.');
+      }
+      if (msg.includes('429') || msg.includes('quota') || msg.includes('RESOURCE_EXHAUSTED')) {
+        throw new Error('Gemini API quota exceeded or rate limit hit. Please retry shortly.');
+      }
+      if (msg.includes('503') || msg.includes('high demand') || msg.includes('unavailable')) {
+        throw new Error('Gemini service is temporarily experiencing high demand. Please try again shortly.');
+      }
+      throw new Error(`Gemini request failed: ${msg.slice(0, 150)}`);
+    }
   }
 
   async translate(params: {
