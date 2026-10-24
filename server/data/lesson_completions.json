@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lc_learner_1792814811113_lesson-beg-1",
+    "learnerId": "learner_1792814811113",
+    "lessonId": "lesson-beg-1",
+    "timeSpentMinutes": 12,
+    "completedAt": "2026-10-24T04:18:20.802Z"
+  },
+  {
+    "id": "lc_learner_1792814811113_lesson-beg-3",
+    "learnerId": "learner_1792814811113",
+    "lessonId": "lesson-beg-3",
+    "timeSpentMinutes": 15,
+    "completedAt": "2026-10-24T04:51:00.076Z"
+  },
+  {
+    "id": "lc_learner_1792814811113_lesson-beg-2",
+    "learnerId": "learner_1792814811113",
+    "lessonId": "lesson-beg-2",
+    "timeSpentMinutes": 13,
+    "completedAt": "2026-10-24T04:51:33.556Z"
+  },
+  {
+    "id": "lc_learner_1792814811113_lesson-gen-1792821903700-1",
+    "learnerId": "learner_1792814811113",
+    "lessonId": "lesson-gen-1792821903700-1",
+    "timeSpentMinutes": 20,
+    "completedAt": "2026-10-24T06:05:42.126Z"
+  },
+  {
+    "id": "lc_learner_1792814811113_lesson-gen-1792823170663-1",
+    "learnerId": "learner_1792814811113",
+    "lessonId": "lesson-gen-1792823170663-1",
+    "timeSpentMinutes": 20,
+    "completedAt": "2026-10-24T06:26:56.444Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "learner_1792814811113",
+    "classLevel": "beginner",
+    "proficiency": "none",
+    "explanationLanguage": "english",
+    "dailyGoalMinutes": 15,
+    "preferredCategories": [
+      "conversation",
+      "vocabulary"
+    ],
+    "createdAt": "2026-10-24T04:50:10.596Z",
+    "updatedAt": "2026-10-24T04:50:10.596Z"
+  },
+  {
+    "id": "learner_1792854428133",
+    "classLevel": "beginner",
+    "proficiency": "basic",
+    "explanationLanguage": "english",
+    "dailyGoalMinutes": 15,
+    "preferredCategories": [
+      "conversation",
+      "vocabulary"
+    ],
+    "createdAt": "2026-10-24T15:07:08.149Z",
+    "updatedAt": "2026-10-24T15:07:08.149Z"
+  },
+  {
+    "id": "learner_1792854606985",
+    "classLevel": "beginner",
+    "proficiency": "none",
+    "explanationLanguage": "kannada",
+    "dailyGoalMinutes": 15,
+    "preferredCategories": [
+      "conversation",
+      "vocabulary"
+    ],
+    "createdAt": "2026-10-24T15:10:06.997Z",
+    "updatedAt": "2026-10-24T15:10:06.997Z"
+  }
+]

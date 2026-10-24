@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FFF9E8; /* Karnataka Warm Ivory */
+    color: #282126; /* Main text */
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .font-kannada {
+    font-family: 'Noto Sans Kannada', 'Segoe UI', system-ui, sans-serif;
+    line-height: 1.6;
+  }
+}
+
+/* Custom smooth scrollbar in Karnataka Maroon & Yellow tone */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FFF9E8;
+}
+::-webkit-scrollbar-thumb {
+  background: #E9DFD7;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8B1538;
+}

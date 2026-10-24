@@ -1,0 +1,837 @@
+[
+  {
+    "id": "hw_1792814978909",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "3",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 3 Homework",
+    "questions": [
+      {
+        "id": "lccgae2k",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q1] What is the Kannada word for \"water\"?",
+        "options": [
+          "ನೀರು",
+          "ಶಾಲೆ",
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ"
+        ],
+        "answer": "ನೀರು",
+        "explanation": "[MOCK] \"water\" means ನೀರು (neeru).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "01ct75jd",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q2] What is the Kannada word for \"school\"?",
+        "options": [
+          "ಶಾಲೆ",
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ"
+        ],
+        "answer": "ಶಾಲೆ",
+        "explanation": "[MOCK] \"school\" means ಶಾಲೆ (shaale).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "dprm58om",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q3] What is the Kannada word for \"mother\"?",
+        "options": [
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ",
+          "ನೀರು"
+        ],
+        "answer": "ತಾಯಿ",
+        "explanation": "[MOCK] \"mother\" means ತಾಯಿ (taayi).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "28qtb9un",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q4] What is the Kannada word for \"good\"?",
+        "options": [
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ",
+          "ನೀರು",
+          "ಶಾಲೆ"
+        ],
+        "answer": "ಒಳ್ಳೆಯ",
+        "explanation": "[MOCK] \"good\" means ಒಳ್ಳೆಯ (olleya).",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T04:09:38.909Z",
+    "source": "mock"
+  },
+  {
+    "id": "hw_1792815013670",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "3",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 3 Homework",
+    "questions": [
+      {
+        "id": "85alzhfn",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q1] What is the Kannada word for \"water\"?",
+        "options": [
+          "ನೀರು",
+          "ಶಾಲೆ",
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ"
+        ],
+        "answer": "ನೀರು",
+        "explanation": "[MOCK] \"water\" means ನೀರು (neeru).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "iv9mn4ai",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q2] What is the Kannada word for \"school\"?",
+        "options": [
+          "ಶಾಲೆ",
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ"
+        ],
+        "answer": "ಶಾಲೆ",
+        "explanation": "[MOCK] \"school\" means ಶಾಲೆ (shaale).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "1orsdeok",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q3] What is the Kannada word for \"mother\"?",
+        "options": [
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ",
+          "ನೀರು"
+        ],
+        "answer": "ತಾಯಿ",
+        "explanation": "[MOCK] \"mother\" means ತಾಯಿ (taayi).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "bs76fn6o",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q4] What is the Kannada word for \"good\"?",
+        "options": [
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ",
+          "ನೀರು",
+          "ಶಾಲೆ"
+        ],
+        "answer": "ಒಳ್ಳೆಯ",
+        "explanation": "[MOCK] \"good\" means ಒಳ್ಳೆಯ (olleya).",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T04:10:13.670Z",
+    "source": "mock"
+  },
+  {
+    "id": "hw_1792815474134",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "3",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 3 Homework",
+    "questions": [
+      {
+        "id": "zxvzvcgq",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q1] What is the Kannada word for \"water\"?",
+        "options": [
+          "ನೀರು",
+          "ಶಾಲೆ",
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ"
+        ],
+        "answer": "ನೀರು",
+        "explanation": "[MOCK] \"water\" means ನೀರು (neeru).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "xyvd48uk",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q2] What is the Kannada word for \"school\"?",
+        "options": [
+          "ಶಾಲೆ",
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ"
+        ],
+        "answer": "ಶಾಲೆ",
+        "explanation": "[MOCK] \"school\" means ಶಾಲೆ (shaale).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "nsp6lc0j",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q3] What is the Kannada word for \"mother\"?",
+        "options": [
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ",
+          "ನೀರು"
+        ],
+        "answer": "ತಾಯಿ",
+        "explanation": "[MOCK] \"mother\" means ತಾಯಿ (taayi).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "degtuc1x",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "[MOCK Q4] What is the Kannada word for \"good\"?",
+        "options": [
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ",
+          "ನೀರು",
+          "ಶಾಲೆ"
+        ],
+        "answer": "ಒಳ್ಳೆಯ",
+        "explanation": "[MOCK] \"good\" means ಒಳ್ಳೆಯ (olleya).",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T04:17:54.134Z",
+    "source": "mock"
+  },
+  {
+    "id": "hw_1792817946912",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "3",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 3 Homework",
+    "questions": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440000",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ನಾಯಿ ಓಡುತ್ತಿದೆ' - ಈ ವಾಕ್ಯದಲ್ಲಿರುವ ನಾಮಪದ ಯಾವುದು?",
+        "options": [
+          "ಓಡುತ್ತಿದೆ",
+          "ನಾಯಿ",
+          "ಇದು",
+          "ಯಾವುದು ಅಲ್ಲ"
+        ],
+        "answer": "ನಾಯಿ",
+        "explanation": "ಯಾವುದಾದರೂ ಪ್ರಾಣಿ, ಪಕ್ಷಿ ಅಥವಾ ವಸ್ತುವಿನ ಹೆಸರನ್ನು ಸೂಚಿಸುವ ಪದವೇ ನಾಮಪದ. ಇಲ್ಲಿ 'ನಾಯಿ' ಪ್ರಾಣಿಯ ಹೆಸರು.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ಅವನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ' - ಈ ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಿಯಾಪದ ಯಾವುದು?",
+        "options": [
+          "ಅವನು",
+          "ಶಾಲೆಗೆ",
+          "ಹೋಗುತ್ತಾನೆ",
+          "ಯಾವುದೂ ಇಲ್ಲ"
+        ],
+        "answer": "ಹೋಗುತ್ತಾನೆ",
+        "explanation": "ಕೆಲಸ ಅಥವಾ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುವ ಪದವನ್ನು ಕ್ರಿಯಾಪದ ಎನ್ನುತ್ತಾರೆ. 'ಹೋಗುತ್ತಾನೆ' ಎಂಬುದು ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "7d444840-9dc0-11d1-b245-5ffdce74fad2",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾದ ವಾಕ್ಯ?",
+        "options": [
+          "ಹಣ್ಣುಗಳು ಸಿಹಿಯಾಗಿದೆ",
+          "ಹಣ್ಣುಗಳು ಸಿಹಿಯಾಗಿವೆ",
+          "ಹಣ್ಣು ಸಿಹಿಯಾಗಿವೆ",
+          "ಹಣ್ಣುಗಳು ಸಿಹಿಯಾದ"
+        ],
+        "answer": "ಹಣ್ಣುಗಳು ಸಿಹಿಯಾಗಿವೆ",
+        "explanation": "ವಚನಕ್ಕೆ ತಕ್ಕಂತೆ ಕ್ರಿಯಾಪದ ಬದಲಾಗಬೇಕು. 'ಹಣ್ಣುಗಳು' ಬಹುವಚನವಾದ್ದರಿಂದ 'ಸಿಹಿಯಾಗಿವೆ' ಎಂದು ಬಳಸಬೇಕು.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "8f395b00-9dc0-11d1-b245-5ffdce74fad2",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ಬೆಕ್ಕಿನ ಮರಿ ಚಿಕ್ಕದಾಗಿದೆ' - ಈ ವಾಕ್ಯದಲ್ಲಿ ವಿಶೇಷಣ ಪದ ಯಾವುದು?",
+        "options": [
+          "ಬೆಕ್ಕಿನ",
+          "ಮರಿ",
+          "ಚಿಕ್ಕದಾಗಿದೆ",
+          "ಯಾವುದು ಅಲ್ಲ"
+        ],
+        "answer": "ಚಿಕ್ಕದಾಗಿದೆ",
+        "explanation": "ನಾಮಪದದ ಗುಣವನ್ನು ಅಥವಾ ವೈಶಿಷ್ಟ್ಯವನ್ನು ತಿಳಿಸುವ ಪದವೇ ವಿಶೇಷಣ. ಇಲ್ಲಿ 'ಚಿಕ್ಕ' ಎಂಬುದು ಬೆಕ್ಕಿನ ಮರಿಯ ಗುಣವನ್ನು ತಿಳಿಸುತ್ತದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T04:59:06.912Z",
+    "source": "gemini"
+  },
+  {
+    "id": "hw_1792817983614",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "3",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 3 Homework",
+    "questions": [
+      {
+        "id": "e4f8a1b2-c3d4-4e5f-a6b7-c8d9e0f1a2b3",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತೇನೆ' - ಈ ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
+        "options": [
+          "ನಾನು",
+          "ಶಾಲೆಗೆ",
+          "ಹೋಗುತ್ತೇನೆ",
+          "ಯಾವುದೂ ಅಲ್ಲ"
+        ],
+        "answer": "ಹೋಗುತ್ತೇನೆ",
+        "explanation": "ಕ್ರಿಯಾಪದವು ಕೆಲಸವನ್ನು ಸೂಚಿಸುವ ಪದವಾಗಿದೆ. ಇಲ್ಲಿ 'ಹೋಗುತ್ತೇನೆ' ಎಂಬುದು ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5a9b2c3-d4e5-4f6a-b7c8-d9e0f1a2b3c4",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ 'ನಾಮಪದ' (Noun) ಯಾವುದು?",
+        "options": [
+          "ರಾಮು",
+          "ಓದಿದನು",
+          "ವೇಗವಾಗಿ",
+          "ಸುಂದರ"
+        ],
+        "answer": "ರಾಮು",
+        "explanation": "ನಾಮಪದವು ವ್ಯಕ್ತಿ, ವಸ್ತು ಅಥವಾ ಸ್ಥಳದ ಹೆಸರನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ರಾಮು' ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಹೆಸರಾದ್ದರಿಂದ ಇದು ನಾಮಪದ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a6b0c3d4-e5f6-4a7b-8c9d-e0f1a2b3c4d5",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ಹುಡುಗನು ಪುಸ್ತಕವನ್ನು ಓದುತ್ತಿದ್ದಾನೆ' - ಈ ವಾಕ್ಯದಲ್ಲಿ ಕರ್ತೃಪದ (Subject) ಯಾವುದು?",
+        "options": [
+          "ಪುಸ್ತಕವನ್ನು",
+          "ಓದುತ್ತಿದ್ದಾನೆ",
+          "ಹುಡುಗನು",
+          "ಯಾವುದೂ ಅಲ್ಲ"
+        ],
+        "answer": "ಹುಡುಗನು",
+        "explanation": "ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಿಯೆಯನ್ನು ಮಾಡುವವರನ್ನು 'ಕರ್ತೃ' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ ಹುಡುಗನು ಕ್ರಿಯೆಯನ್ನು ಮಾಡುತ್ತಿದ್ದಾನೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b7c1d4e5-f6a7-4b8c-9d0e-f1a2b3c4d5e6",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಸರಿಯಾದ ವಾಕ್ಯವನ್ನು ಆರಿಸಿ:",
+        "options": [
+          "ಹಣ್ಣುಗಳು ಮರದಲ್ಲಿ ಇವೆ.",
+          "ಇವೆ ಮರದಲ್ಲಿ ಹಣ್ಣುಗಳು.",
+          "ಮರದಲ್ಲಿ ಹಣ್ಣುಗಳು ಇವೆ.",
+          "ಹಣ್ಣುಗಳು ಇವೆ ಮರದಲ್ಲಿ."
+        ],
+        "answer": "ಮರದಲ್ಲಿ ಹಣ್ಣುಗಳು ಇವೆ.",
+        "explanation": "ಕನ್ನಡ ವಾಕ್ಯ ರಚನೆಯಲ್ಲಿ ಕರ್ತೃ, ಕರ್ಮ ಮತ್ತು ಕ್ರಿಯಾಪದಗಳು ಸರಿಯಾದ ಕ್ರಮದಲ್ಲಿ ಬಂದಾಗ ಮಾತ್ರ ವಾಕ್ಯವು ಅರ್ಥಪೂರ್ಣವಾಗಿರುತ್ತದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T04:59:43.614Z",
+    "source": "gemini"
+  },
+  {
+    "id": "hw_1792821790503",
+    "learnerId": "default",
+    "classLevel": "5",
+    "topic": "Adjectives",
+    "title": "Adjectives — Class 5 Homework",
+    "questions": [
+      {
+        "id": "7f8a9b21-4d3c-4e5f-a6b7-8c9d0e1f2a3b",
+        "type": "multiple-choice",
+        "classLevel": "5",
+        "topic": "Adjectives",
+        "difficulty": "medium",
+        "prompt": "\"ರಾಮನು ಒಳ್ಳೆಯ ಹುಡುಗ\" - ಈ ವಾಕ್ಯದಲ್ಲಿರುವ ಗುಣವಾಚಕ ಯಾವುದು?",
+        "options": [
+          "ರಾಮನು",
+          "ಒಳ್ಳೆಯ",
+          "ಹುಡುಗ",
+          "ಯಾವುದು ಅಲ್ಲ"
+        ],
+        "answer": "ಒಳ್ಳೆಯ",
+        "explanation": "ಗುಣವಾಚಕವು ನಾಮಪದದ ಗುಣವನ್ನು ತಿಳಿಸುತ್ತದೆ. ಇಲ್ಲಿ 'ಒಳ್ಳೆಯ' ಎಂಬುದು ಹುಡುಗನ ಗುಣವನ್ನು ಸೂಚಿಸುವುದರಿಂದ ಅದು ಗುಣವಾಚಕ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a",
+        "type": "multiple-choice",
+        "classLevel": "5",
+        "topic": "Adjectives",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ 'ಬಣ್ಣ'ವನ್ನು ಸೂಚಿಸುವ ಗುಣವಾಚಕ ಯಾವುದು?",
+        "options": [
+          "ದೊಡ್ಡ",
+          "ಹಸಿರು",
+          "ಸಿಹಿ",
+          "ಎತ್ತರ"
+        ],
+        "answer": "ಹಸಿರು",
+        "explanation": "'ಹಸಿರು' ಎಂಬುದು ಬಣ್ಣವನ್ನು ಸೂಚಿಸುವ ಗುಣವಾಚಕ. ದೊಡ್ಡ, ಸಿಹಿ ಮತ್ತು ಎತ್ತರ ಇವು ಕ್ರಮವಾಗಿ ಗಾತ್ರ, ರುಚಿ ಮತ್ತು ಅಳತೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T06:03:10.503Z",
+    "source": "gemini"
+  },
+  {
+    "id": "hw_1792824432070",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "3",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 3 Homework",
+    "questions": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440000",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಈ ವಾಕ್ಯದಲ್ಲಿರುವ ನಾಮಪದವನ್ನು ಗುರುತಿಸಿ: 'ರಾಮು ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ.'",
+        "options": [
+          "ಹೋಗುತ್ತಾನೆ",
+          "ರಾಮು",
+          "ಶಾಲೆಗೆ",
+          "ಅವನು"
+        ],
+        "answer": "ರಾಮು",
+        "explanation": "ಯಾವುದೇ ವ್ಯಕ್ತಿ, ವಸ್ತು ಅಥವಾ ಸ್ಥಳದ ಹೆಸರನ್ನು ನಾಮಪದ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ 'ರಾಮು' ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಹೆಸರಾಗಿರುವುದರಿಂದ ಅದು ನಾಮಪದ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ 'ಕ್ರಿಯಾಪದ' ಯಾವುದು?",
+        "options": [
+          "ಮನೆ",
+          "ಕೆಂಪು",
+          "ಓದುತ್ತಾನೆ",
+          "ಅವಳು"
+        ],
+        "answer": "ಓದುತ್ತಾನೆ",
+        "explanation": "ಕೆಲಸ ಅಥವಾ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುವ ಪದವನ್ನು ಕ್ರಿಯಾಪದ ಎನ್ನುತ್ತಾರೆ. 'ಓದುತ್ತಾನೆ' ಎಂಬುದು ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "2d3e4f5a-6b7c-4d8e-9f0a-1b2c3d4e5f6g",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ವಾಕ್ಯ ಪೂರ್ಣಗೊಳಿಸಿ: 'ಸೂರ್ಯ ______ ಉದಯಿಸುತ್ತಾನೆ.'",
+        "options": [
+          "ಪಶ್ಚಿಮದಲ್ಲಿ",
+          "ಉತ್ತರದಲ್ಲಿ",
+          "ದಕ್ಷಿಣದಲ್ಲಿ",
+          "ಪೂರ್ವದಲ್ಲಿ"
+        ],
+        "answer": "ಪೂರ್ವದಲ್ಲಿ",
+        "explanation": "ಸೂರ್ಯನು ಯಾವಾಗಲೂ ಪೂರ್ವ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ, ಆದ್ದರಿಂದ 'ಪೂರ್ವದಲ್ಲಿ' ಸರಿಯಾದ ಪದವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a1b2c3d4-e5f6-4789-8a9b-0c1d2e3f4a5b",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ವಚನ ಬದಲಿಸಿ ಬರೆದಾಗ 'ಮರ' ಪದದ ಬಹುವಚನ ರೂಪವೇನು?",
+        "options": [
+          "ಮರಗಳು",
+          "ಮರಗಳುಗಳು",
+          "ಮರಗಳುನ್",
+          "ಮರಮರ"
+        ],
+        "answer": "ಮರಗಳು",
+        "explanation": "ಏಕವಚನ 'ಮರ' ಪದಕ್ಕೆ 'ಗಳು' ಪ್ರತ್ಯಯ ಸೇರಿಸಿದಾಗ ಅದು ಬಹುವಚನ 'ಮರಗಳು' ಆಗುತ್ತದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T06:47:12.070Z",
+    "source": "gemini"
+  },
+  {
+    "id": "hw_1792825337238",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "7",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 7 Homework",
+    "questions": [
+      {
+        "id": "e4f8a120-7b92-4f38-bc4a-928d1c4731a1",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನ ವಾಕ್ಯದಲ್ಲಿ 'ನಾಮಪದ'ವನ್ನು ಗುರುತಿಸಿ: 'ರಾಮುವು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದಾನೆ.'",
+        "options": [
+          "ಹೋಗುತ್ತಿದ್ದಾನೆ",
+          "ರಾಮುವು",
+          "ಶಾಲೆಗೆ",
+          "ಗೆ"
+        ],
+        "answer": "ರಾಮುವು",
+        "explanation": "ಯಾವುದೇ ವ್ಯಕ್ತಿ, ವಸ್ತು ಅಥವಾ ಸ್ಥಳದ ಹೆಸರನ್ನು ಸೂಚಿಸುವ ಪದವನ್ನು ನಾಮಪದ ಎನ್ನುತ್ತಾರೆ. ಇಲ್ಲಿ 'ರಾಮುವು' ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಹೆಸರಾಗಿರುವುದರಿಂದ ಇದು ನಾಮಪದವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "5b9d3e81-cf24-4f2a-a035-77b31c9e45c2",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "Choose the correct 'Vibhakti Pratyaya' (case suffix) for the sentence: 'ಮಗುವು ತೊಟ್ಟಿಲ___ ಮಲಗಿದೆ.'",
+        "options": [
+          "ಅನ್ನು",
+          "ಇಂದ",
+          "ನಲ್ಲಿ",
+          "ಗೆ"
+        ],
+        "answer": "ನಲ್ಲಿ",
+        "explanation": "ಇಲ್ಲಿ ಸ್ಥಳವನ್ನು ಸೂಚಿಸುವ ಸಪ್ತಮಿ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ 'ಅಲ್ಲಿ/ನಲ್ಲಿ' ಬಳಸಬೇಕು. ಆದ್ದರಿಂದ 'ತೊಟ್ಟಿಲಿನಲ್ಲಿ' ಎಂಬುದು ಸರಿಯಾದ ರೂಪ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "ac82d19f-b0f3-424a-9772-23f95e8d6411",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ಪರೋಪಕಾರ' ಪದದ ಸರಿಯಾದ ಸಂಧಿ ವಿಚ್ಛೇದನವನ್ನು ಗುರುತಿಸಿ.",
+        "options": [
+          "ಪರ + ಉಪಕಾರ",
+          "ಪರೋ + ಪಕಾರ",
+          "ಪರೊ + ಉಪಕಾರ",
+          "ಪರ + ಉಪಕಾರ"
+        ],
+        "answer": "ಪರ + ಉಪಕಾರ",
+        "explanation": "ಪರ + ಉಪಕಾರ = ಪರೋಪಕಾರ (ಗುಣಸಂಧಿ). ಇಲ್ಲಿ 'ಅ' ಕಾರದ ಮುಂದೆ 'ಉ' ಕಾರ ಬಂದಾಗ 'ಓ' ಕಾರವು ಆದೇಶವಾಗಿ ಬರುತ್ತದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "99f3c7a2-1e56-48c8-b5e1-6d7c88b2a593",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ಹುಲಿ ಓಡಿತು' - ಈ ವಾಕ್ಯದಲ್ಲಿರುವ ಕಾಲವನ್ನು ಗುರುತಿಸಿ.",
+        "options": [
+          "ವರ್ತಮಾನ ಕಾಲ",
+          "ಭೂತ ಕಾಲ",
+          "ಭವಿಷ್ಯತ್ ಕಾಲ",
+          "ತದ್ಧರ್ಮ್ಮ ಕಾಲ"
+        ],
+        "answer": "ಭೂತ ಕಾಲ",
+        "explanation": "ಕ್ರಿಯೆಯು ಈಗಾಗಲೇ ನಡೆದು ಹೋಗಿರುವುದನ್ನು ಸೂಚಿಸುವ ವಾಕ್ಯವು ಭೂತ ಕಾಲದಲ್ಲಿರುತ್ತದೆ. 'ಓಡಿತು' ಎಂಬ ಪದವು ಕ್ರಿಯೆ ಮುಗಿದಿರುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T07:02:17.238Z",
+    "source": "gemini"
+  },
+  {
+    "id": "hw_1792825360543",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "7",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 7 Homework",
+    "questions": [
+      {
+        "id": "e4f8d2a1-9b3c-4a5f-8d7e-1a2b3c4d5e6f",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನ ವಾಕ್ಯದಲ್ಲಿ 'ನಾಮಪದ' (Noun) ಯಾವುದು? 'ರಾಮುವು ಶಾಲೆಗೆ ಹೋದನು.'",
+        "options": [
+          "ಹೋದನು",
+          "ರಾಮುವು",
+          "ಶಾಲೆಗೆ",
+          "ಯಾವುದೂ ಅಲ್ಲ"
+        ],
+        "answer": "ರಾಮುವು",
+        "explanation": "ರಾಮು ಎಂಬುದು ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಹೆಸರನ್ನು ಸೂಚಿಸುವುದರಿಂದ ಇದು ನಾಮಪದವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "Choose the correct 'ಅವ್ಯಯ' (Indeclinable) for the sentence: 'ಮಗು _____ ಅಳುತ್ತಿದೆ.'",
+        "options": [
+          "ಜೋರಾಗಿ",
+          "ಸುಂದರ",
+          "ಓಡು",
+          "ಕೆಂಪು"
+        ],
+        "answer": "ಜೋರಾಗಿ",
+        "explanation": "'ಜೋರಾಗಿ' ಎಂಬುದು ಕ್ರಿಯೆಯ ರೀತಿಯನ್ನು ವಿವರಿಸುವ ಕ್ರಿಯಾವಿಶೇಷಣ ಅವ್ಯಯವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5e4d3c2-b1a0-4f9e-8d7c-6b5a49382716",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ಪರಿಮಳಯುಕ್ತ ಹೂವು' - ಈ ಪದಗುಚ್ಛದಲ್ಲಿ 'ಪರಿಮಳಯುಕ್ತ' ಎಂಬುದು ಯಾವ ವ್ಯಾಕರಣಾಂಶವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+        "options": [
+          "ನಾಮಪದ",
+          "ಕ್ರಿಯಾಪದ",
+          "ಗುಣವಾಚಕ",
+          "ಅವ್ಯಯ"
+        ],
+        "answer": "ಗುಣವಾಚಕ",
+        "explanation": "ಹೂವಿನ ಗುಣವನ್ನು (ಪರಿಮಳವನ್ನು) ವಿವರಿಸುವುದರಿಂದ 'ಪರಿಮಳಯುಕ್ತ' ಎಂಬುದು ಗುಣವಾಚಕವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c9d8e7f6-a5b4-4c3d-2e1f-0a9b8c7d6e5f",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ 'ಭೂತಕಾಲ'ದ (Past Tense) ವಾಕ್ಯವನ್ನು ಗುರುತಿಸಿ.",
+        "options": [
+          "ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತೇನೆ.",
+          "ಅವನು ಪಾಠ ಓದುತ್ತಿದ್ದಾನೆ.",
+          "ಸೀತಾ ಹಾಡನ್ನು ಹಾಡಿದಳು.",
+          "ನಾವು ಆಟವಾಡುತ್ತೇವೆ."
+        ],
+        "answer": "ಸೀತಾ ಹಾಡನ್ನು ಹಾಡಿದಳು.",
+        "explanation": "'ಹಾಡಿದಳು' ಎಂಬ ಪದವು ಕ್ರಿಯೆ ಈಗಾಗಲೇ ಮುಗಿದಿದೆ ಎಂದು ತಿಳಿಸುವುದರಿಂದ ಇದು ಭೂತಕಾಲವಾಗಿದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T07:02:40.543Z",
+    "source": "gemini"
+  },
+  {
+    "id": "hw_1792825386215",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "7",
+    "topic": "Grammar and Sentence Composition",
+    "title": "Grammar and Sentence Composition — Class 7 Homework",
+    "questions": [
+      {
+        "id": "a4d3f8e1-92b5-4a7c-8d1e-2f3a4b5c6d7e",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ 'ತತ್ಸಮ' ಪದವನ್ನು ಗುರುತಿಸಿ.",
+        "options": [
+          "ಕೆಲಸ",
+          "ದಿವಸ",
+          "ಅನ್ನ",
+          "ರಾಜ್ಯ"
+        ],
+        "answer": "ರಾಜ್ಯ",
+        "explanation": "ಸಂಸ್ಕೃತ ಭಾಷೆಯಿಂದ ಕನ್ನಡಕ್ಕೆ ನೇರವಾಗಿ ಬದಲಾವಣೆ ಹೊಂದದೆ ಬಂದ ಪದಗಳನ್ನು 'ತತ್ಸಮ' ಎನ್ನುತ್ತಾರೆ. ಇಲ್ಲಿ 'ರಾಜ್ಯ' ಎಂಬುದು ಸಂಸ್ಕೃತದ ಮೂಲ ರೂಪವನ್ನೇ ಉಳಿಸಿಕೊಂಡಿರುವ ತತ್ಸಮ ಪದವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b5e4g9f2-03c6-5b8d-9e2f-3g4b5c6d7e8f",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ವಾಕ್ಯದಲ್ಲಿ 'ಕರ್ತೃ' ಪದವನ್ನು ಗುರುತಿಸಿ: 'ರಾಮುವು ಹಣ್ಣನ್ನು ತಿಂದನು'.",
+        "options": [
+          "ರಾಮುವು",
+          "ಹಣ್ಣನ್ನು",
+          "ತಿಂದನು",
+          "ಯಾವುದೂ ಅಲ್ಲ"
+        ],
+        "answer": "ರಾಮುವು",
+        "explanation": "ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಿಯೆಯನ್ನು ಮಾಡುವವನು 'ಕರ್ತೃ' ಆಗಿರುತ್ತಾನೆ. ಈ ವಾಕ್ಯದಲ್ಲಿ ತಿನ್ನುವ ಕ್ರಿಯೆಯನ್ನು ಮಾಡುತ್ತಿರುವುದು 'ರಾಮು', ಆದ್ದರಿಂದ 'ರಾಮುವು' ಕರ್ತೃ ಪದವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c6f5h0g3-14d7-6c9e-0f3g-4h5c6d7e8f9g",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ 'ಅವ್ಯಯ'ಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+        "options": [
+          "ಮರ",
+          "ಓಡು",
+          "ಅಯ್ಯೋ",
+          "ನದಿ"
+        ],
+        "answer": "ಅಯ್ಯೋ",
+        "explanation": "ಲಿಂಗ, ವಚನ ಅಥವಾ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳಿಂದ ಬದಲಾವಣೆ ಹೊಂದದ ಪದಗಳನ್ನು 'ಅವ್ಯಯ' ಎನ್ನುತ್ತಾರೆ. 'ಅಯ್ಯೋ' ಎಂಬುದು ಭಾವನಾತ್ಮಕ ಅವ್ಯಯವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d7g6i1h4-25e8-7d0f-1g4h-5i6d7e8f9g0h",
+        "type": "multiple-choice",
+        "classLevel": "7",
+        "topic": "Grammar and Sentence Composition",
+        "difficulty": "medium",
+        "prompt": "'ಗಾಳಿಯು ಜೋರಾಗಿ ಬೀಸಿತು' - ಈ ವಾಕ್ಯದಲ್ಲಿ 'ಜೋರಾಗಿ' ಎಂಬುದು ಯಾವ ಪ್ರಕಾರಕ್ಕೆ ಸೇರಿದೆ?",
+        "options": [
+          "ನಾಮಪದ",
+          "ಕ್ರಿಯಾವಿಶೇಷಣ",
+          "ಸಂಬಂಧವಾಚಕ",
+          "ಭಾವನಾಮ"
+        ],
+        "answer": "ಕ್ರಿಯಾವಿಶೇಷಣ",
+        "explanation": "ಕ್ರಿಯೆಯು ಹೇಗೆ ನಡೆಯಿತು ಎಂಬುದನ್ನು ತಿಳಿಸುವ ಪದವು ಕ್ರಿಯಾವಿಶೇಷಣವಾಗಿದೆ. ಇಲ್ಲಿ 'ಬೀಸುವ' ಕ್ರಿಯೆಯು ಹೇಗೆ ನಡೆಯಿತು (ಜೋರಾಗಿ) ಎಂದು ತಿಳಿಸಿರುವುದರಿಂದ ಇದು ಕ್ರಿಯಾವಿಶೇಷಣವಾಗಿದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T07:03:06.215Z",
+    "source": "gemini"
+  },
+  {
+    "id": "hw_1792826028345",
+    "learnerId": "learner_1792814811113",
+    "classLevel": "3",
+    "topic": "tenses",
+    "title": "tenses — Class 3 Homework",
+    "questions": [
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "tenses",
+        "difficulty": "medium",
+        "prompt": "Choose the correct past tense (ಭೂತಕಾಲ) form of the verb 'ಬರುತ್ತಾನೆ' (he comes).",
+        "options": [
+          "ಬಂದನು",
+          "ಬರುತ್ತಿದ್ದ",
+          "ಬರುವನು",
+          "ಬರುತ್ತಾನೆ"
+        ],
+        "answer": "ಬಂದನು",
+        "explanation": "'ಬಂದನು' indicates an action that is already completed, which represents the past tense (ಭೂತಕಾಲ).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "tenses",
+        "difficulty": "medium",
+        "prompt": "Identify the sentence that is in the future tense (ಭವಿಷ್ಯತ್ ಕಾಲ).",
+        "options": [
+          "ನಾನು ಹಾಡು ಹಾಡಿದೆನು.",
+          "ನಾವು ಶಾಲೆಗೆ ಹೋಗುತ್ತೇವೆ.",
+          "ಅವಳು ಪುಸ್ತಕ ಓದುತ್ತಾಳೆ.",
+          "ಅಣ್ಣ ನಾಳೆ ಊರಿಗೆ ಹೋಗುವನು."
+        ],
+        "answer": "ಅಣ್ಣ ನಾಳೆ ಊರಿಗೆ ಹೋಗುವನು.",
+        "explanation": "'ಹೋಗುವನು' indicates an action that will happen in the future, thus it is future tense (ಭವಿಷ್ಯತ್ ಕಾಲ).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "tenses",
+        "difficulty": "medium",
+        "prompt": "Which of these verbs represents the present tense (ವರ್ತಮಾನ ಕಾಲ)?",
+        "options": [
+          "ನಕ್ಕನು",
+          "ಓಡಿದನು",
+          "ಬರೆಯುತ್ತಿದ್ದಾನೆ",
+          "ಆಡುವನು"
+        ],
+        "answer": "ಬರೆಯುತ್ತಿದ್ದಾನೆ",
+        "explanation": "'ಬರೆಯುತ್ತಿದ್ದಾನೆ' denotes an action currently in progress, which is present tense (ವರ್ತಮಾನ ಕಾಲ).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g",
+        "type": "multiple-choice",
+        "classLevel": "3",
+        "topic": "tenses",
+        "difficulty": "medium",
+        "prompt": "Convert the verb 'ತಿನ್ನುತ್ತಾನೆ' (he eats - present) to its past tense (ಭೂತಕಾಲ) form.",
+        "options": [
+          "ತಿನ್ನುವನು",
+          "ತಿಂದನು",
+          "ತಿನ್ನುತ್ತಿದ್ದ",
+          "ಉಣ್ಣುವನು"
+        ],
+        "answer": "ತಿಂದನು",
+        "explanation": "'ತಿಂದನು' is the past tense form of the verb 'ತಿನ್ನುತ್ತಾನೆ', representing a completed action.",
+        "source": "ai-generated"
+      }
+    ],
+    "generatedAt": "2026-10-24T07:13:48.345Z",
+    "source": "gemini"
+  }
+]

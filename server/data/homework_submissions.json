@@ -1,0 +1,101 @@
+[
+  {
+    "id": "hs_1792815006000",
+    "assignmentId": "hw_1792814978909",
+    "learnerId": "learner_1792814811113",
+    "answers": {
+      "lccgae2k": "ನೀರು",
+      "01ct75jd": "ಶಾಲೆ",
+      "dprm58om": "ತಾಯಿ",
+      "28qtb9un": "ಒಳ್ಳೆಯ"
+    },
+    "score": 100,
+    "feedback": {
+      "lccgae2k": "✓ Correct!",
+      "01ct75jd": "✓ Correct!",
+      "dprm58om": "✓ Correct!",
+      "28qtb9un": "✓ Correct!"
+    },
+    "submittedAt": "2026-10-24T04:10:06.000Z"
+  },
+  {
+    "id": "hs_1792815009623",
+    "assignmentId": "hw_1792814978909",
+    "learnerId": "learner_1792814811113",
+    "answers": {
+      "lccgae2k": "ನೀರು",
+      "01ct75jd": "ಶಾಲೆ",
+      "dprm58om": "ತಾಯಿ",
+      "28qtb9un": "ಒಳ್ಳೆಯ"
+    },
+    "score": 100,
+    "feedback": {
+      "lccgae2k": "✓ Correct!",
+      "01ct75jd": "✓ Correct!",
+      "dprm58om": "✓ Correct!",
+      "28qtb9un": "✓ Correct!"
+    },
+    "submittedAt": "2026-10-24T04:10:09.624Z"
+  },
+  {
+    "id": "hs_1792817970426",
+    "assignmentId": "hw_1792817946912",
+    "learnerId": "learner_1792814811113",
+    "answers": {
+      "550e8400-e29b-41d4-a716-446655440000": "ನಾಯಿ",
+      "6ba7b810-9dad-11d1-80b4-00c04fd430c8": "ಯಾವುದೂ ಇಲ್ಲ",
+      "7d444840-9dc0-11d1-b245-5ffdce74fad2": "ಹಣ್ಣು ಸಿಹಿಯಾಗಿವೆ",
+      "8f395b00-9dc0-11d1-b245-5ffdce74fad2": "ಮರಿ"
+    },
+    "score": 25,
+    "feedback": {
+      "550e8400-e29b-41d4-a716-446655440000": "✓ Correct!",
+      "6ba7b810-9dad-11d1-80b4-00c04fd430c8": "✗ Correct answer: ಹೋಗುತ್ತಾನೆ",
+      "7d444840-9dc0-11d1-b245-5ffdce74fad2": "✗ Correct answer: ಹಣ್ಣುಗಳು ಸಿಹಿಯಾಗಿವೆ",
+      "8f395b00-9dc0-11d1-b245-5ffdce74fad2": "✗ Correct answer: ಚಿಕ್ಕದಾಗಿದೆ"
+    },
+    "submittedAt": "2026-10-24T04:59:30.426Z"
+  },
+  {
+    "id": "hs_1792825346293",
+    "assignmentId": "hw_1792825337238",
+    "learnerId": "learner_1792814811113",
+    "answers": {},
+    "score": 0,
+    "feedback": {
+      "e4f8a120-7b92-4f38-bc4a-928d1c4731a1": "✗ Correct answer: ರಾಮುವು",
+      "5b9d3e81-cf24-4f2a-a035-77b31c9e45c2": "✗ Correct answer: ನಲ್ಲಿ",
+      "ac82d19f-b0f3-424a-9772-23f95e8d6411": "✗ Correct answer: ಪರ + ಉಪಕಾರ",
+      "99f3c7a2-1e56-48c8-b5e1-6d7c88b2a593": "✗ Correct answer: ಭೂತ ಕಾಲ"
+    },
+    "submittedAt": "2026-10-24T07:02:26.293Z"
+  },
+  {
+    "id": "hs_1792825352076",
+    "assignmentId": "hw_1792825337238",
+    "learnerId": "learner_1792814811113",
+    "answers": {},
+    "score": 0,
+    "feedback": {
+      "e4f8a120-7b92-4f38-bc4a-928d1c4731a1": "✗ Correct answer: ರಾಮುವು",
+      "5b9d3e81-cf24-4f2a-a035-77b31c9e45c2": "✗ Correct answer: ನಲ್ಲಿ",
+      "ac82d19f-b0f3-424a-9772-23f95e8d6411": "✗ Correct answer: ಪರ + ಉಪಕಾರ",
+      "99f3c7a2-1e56-48c8-b5e1-6d7c88b2a593": "✗ Correct answer: ಭೂತ ಕಾಲ"
+    },
+    "submittedAt": "2026-10-24T07:02:32.076Z"
+  },
+  {
+    "id": "hs_1792825371666",
+    "assignmentId": "hw_1792825360543",
+    "learnerId": "learner_1792814811113",
+    "answers": {},
+    "score": 0,
+    "feedback": {
+      "e4f8d2a1-9b3c-4a5f-8d7e-1a2b3c4d5e6f": "✗ Correct answer: ರಾಮುವು",
+      "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d": "✗ Correct answer: ಜೋರಾಗಿ",
+      "f5e4d3c2-b1a0-4f9e-8d7c-6b5a49382716": "✗ Correct answer: ಗುಣವಾಚಕ",
+      "c9d8e7f6-a5b4-4c3d-2e1f-0a9b8c7d6e5f": "✗ Correct answer: ಸೀತಾ ಹಾಡನ್ನು ಹಾಡಿದಳು."
+    },
+    "submittedAt": "2026-10-24T07:02:51.666Z"
+  }
+]

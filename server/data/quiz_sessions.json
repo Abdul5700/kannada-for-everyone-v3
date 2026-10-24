@@ -1,0 +1,1863 @@
+[
+  {
+    "id": "qs_1792815468084",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113"
+    },
+    "questions": [
+      {
+        "id": "hcyr5p8g",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "[MOCK Q1] What is the Kannada word for \"water\"?",
+        "options": [
+          "ನೀರು",
+          "ಶಾಲೆ",
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ"
+        ],
+        "answer": "ನೀರು",
+        "explanation": "[MOCK] \"water\" means ನೀರು (neeru).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "0qr8qw3n",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "[MOCK Q2] What is the Kannada word for \"school\"?",
+        "options": [
+          "ಶಾಲೆ",
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ"
+        ],
+        "answer": "ಶಾಲೆ",
+        "explanation": "[MOCK] \"school\" means ಶಾಲೆ (shaale).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "vzj5clb2",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "[MOCK Q3] What is the Kannada word for \"mother\"?",
+        "options": [
+          "ತಾಯಿ",
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ",
+          "ನೀರು"
+        ],
+        "answer": "ತಾಯಿ",
+        "explanation": "[MOCK] \"mother\" means ತಾಯಿ (taayi).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "7pwqzp8b",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "[MOCK Q4] What is the Kannada word for \"good\"?",
+        "options": [
+          "ಒಳ್ಳೆಯ",
+          "ಬಾ",
+          "ನೀರು",
+          "ಶಾಲೆ"
+        ],
+        "answer": "ಒಳ್ಳೆಯ",
+        "explanation": "[MOCK] \"good\" means ಒಳ್ಳೆಯ (olleya).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "098e28fv",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "[MOCK Q5] What is the Kannada word for \"come\"?",
+        "options": [
+          "ಬಾ",
+          "ನೀರು",
+          "ಶಾಲೆ",
+          "ತಾಯಿ"
+        ],
+        "answer": "ಬಾ",
+        "explanation": "[MOCK] \"come\" means ಬಾ (baa).",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T04:17:48.084Z",
+    "status": "active"
+  },
+  {
+    "id": "qs_1792816558566",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113"
+    },
+    "questions": [
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Hello' or 'Greetings' in Kannada?",
+        "options": [
+          "Namaskara",
+          "Oota ayitha",
+          "Hego iddira",
+          "Dhanyavada"
+        ],
+        "answer": "Namaskara",
+        "explanation": "'Namaskara' is the standard formal greeting used to say hello in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which phrase is used to say 'Thank you' in Kannada?",
+        "options": [
+          "Banni",
+          "Dhanyavada",
+          "Hogi banni",
+          "Khushi"
+        ],
+        "answer": "Dhanyavada",
+        "explanation": "'Dhanyavada' is the Kannada word for 'Thank you'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the English meaning of the Kannada question 'Oota ayitha?'",
+        "options": [
+          "How are you?",
+          "Where are you going?",
+          "Did you have your meal?",
+          "What is your name?"
+        ],
+        "answer": "Did you have your meal?",
+        "explanation": "'Oota' means meal and 'ayitha' means 'did it happen/finish', commonly used as 'Did you eat?'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask 'How are you?' in Kannada?",
+        "options": [
+          "Hego iddira?",
+          "Nimma hesaru enu?",
+          "Elli hoguttira?",
+          "Banni"
+        ],
+        "answer": "Hego iddira?",
+        "explanation": "'Hego iddira?' is the common way to ask 'How are you?' in a polite manner.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8g9h",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'Yes'?",
+        "options": [
+          "Illa",
+          "Hau",
+          "Barala",
+          "Nodi"
+        ],
+        "answer": "Hau",
+        "explanation": "'Hau' (or 'Haudu') is the Kannada word for 'Yes'.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {
+      "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d": "Namaskara"
+    },
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T04:35:58.566Z",
+    "status": "completed",
+    "score": 20,
+    "completedAt": "2026-10-24T04:36:11.651Z"
+  },
+  {
+    "id": "qs_1792816579459",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113"
+    },
+    "questions": [
+      {
+        "id": "a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Hello' in Kannada?",
+        "options": [
+          "Namaskara",
+          "Dhanyavada",
+          "Hogibanni",
+          "Oota ayitha"
+        ],
+        "answer": "Namaskara",
+        "explanation": "Namaskara is the standard way to say hello or greetings in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'Thank you'?",
+        "options": [
+          "Bandu",
+          "Dhanyavada",
+          "Hogi",
+          "Illi"
+        ],
+        "answer": "Dhanyavada",
+        "explanation": "Dhanyavada is the formal and common way to express gratitude or say thank you.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask 'How are you?' in Kannada?",
+        "options": [
+          "Nimma hesaru enu?",
+          "Hegiddiri?",
+          "Oota ayitha?",
+          "Illi banni"
+        ],
+        "answer": "Hegiddiri?",
+        "explanation": "Hegiddiri translates to 'How are you?' (polite form).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the common way to ask 'Have you eaten?' in Kannada?",
+        "options": [
+          "Oota ayitha?",
+          "Nimma mane elli?",
+          "Nanage gothilla",
+          "Banni"
+        ],
+        "answer": "Oota ayitha?",
+        "explanation": "Oota ayitha? is a common social greeting that translates to 'Have you had your meal?'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8g9h",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'What is your name?' in Kannada?",
+        "options": [
+          "Nanna hesaru...",
+          "Nimma hesaru enu?",
+          "Neevu yaru?",
+          "Hogi banni"
+        ],
+        "answer": "Nimma hesaru enu?",
+        "explanation": "Nimma hesaru enu? is the correct phrase for 'What is your name?'.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {
+      "a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d": "Namaskara",
+      "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e": "Dhanyavada",
+      "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f": "Hegiddiri?",
+      "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g": "Oota ayitha?",
+      "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8g9h": "Nimma hesaru enu?"
+    },
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T04:36:19.459Z",
+    "status": "completed",
+    "score": 100,
+    "completedAt": "2026-10-24T04:36:48.687Z"
+  },
+  {
+    "id": "qs_1792816623491",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113"
+    },
+    "questions": [
+      {
+        "id": "e4f8a1c0-7b2d-4e9f-9a1b-3c4d5e6f7a8b",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Hello' or 'Greetings' in Kannada?",
+        "options": [
+          "ನಮಸ್ಕಾರ (Namaskara)",
+          "ಧನ್ಯವಾದ (Dhanyavada)",
+          "ಹೋಗಿ ಬರುತ್ತೇನೆ (Hogi baruttene)",
+          "ಕ್ಷಮಿಸಿ (Kshamisi)"
+        ],
+        "answer": "ನಮಸ್ಕಾರ (Namaskara)",
+        "explanation": "Namaskara is the standard way to greet someone in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'Thank you'?",
+        "options": [
+          "ಸ್ವಾಗತ (Swagata)",
+          "ಹಲೋ (Hello)",
+          "ಧನ್ಯವಾದ (Dhanyavada)",
+          "ಸರಿ (Sari)"
+        ],
+        "answer": "ಧನ್ಯವಾದ (Dhanyavada)",
+        "explanation": "Dhanyavada means thank you in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5e4d3c2-b1a0-4f9e-8d7c-6b5a4f3e2d1c",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask 'How are you?' in Kannada?",
+        "options": [
+          "ನೀವು ಹೇಗಿದ್ದೀರಿ? (Neevu hegiddiri?)",
+          "ನಿಮ್ಮ ಹೆಸರೇನು? (Nimma hesarenu?)",
+          "ಇದು ಎಲ್ಲಿ? (Idu elli?)",
+          "ನನಗೆ ಗೊತ್ತಿಲ್ಲ (Nanage gottilla)"
+        ],
+        "answer": "ನೀವು ಹೇಗಿದ್ದೀರಿ? (Neevu hegiddiri?)",
+        "explanation": "Neevu hegiddiri translates to 'How are you?' (formal).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c9d8e7f6-a5b4-4c3d-2e1f-0a9b8c7d6e5f",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'Yes'?",
+        "options": [
+          "ಇಲ್ಲ (Illa)",
+          "ಹೌದು (Houdu)",
+          "ಯಾರು (Yaaru)",
+          "ಏನು (Enu)"
+        ],
+        "answer": "ಹೌದು (Houdu)",
+        "explanation": "Houdu is the Kannada word for 'Yes'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b7a6c5d4-e3f2-4g1h-0i9j-8k7l6m5n4o3p",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Excuse me' or 'Sorry' in Kannada?",
+        "options": [
+          "ಬನ್ನಿ (Banni)",
+          "ನಮಸ್ಕಾರ (Namaskara)",
+          "ಕ್ಷಮಿಸಿ (Kshamisi)",
+          "ಸರಿ (Sari)"
+        ],
+        "answer": "ಕ್ಷಮಿಸಿ (Kshamisi)",
+        "explanation": "Kshamisi is used to say excuse me or sorry.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T04:37:03.491Z",
+    "status": "active"
+  },
+  {
+    "id": "qs_1792821719328",
+    "learnerId": "default",
+    "config": {
+      "classLevel": "1",
+      "topic": "Numbers",
+      "difficulty": "easy",
+      "count": 3,
+      "mode": "practice",
+      "learnerId": "default"
+    },
+    "questions": [
+      {
+        "id": "550e8400-e29b-41d4-a716-446655440000",
+        "type": "multiple-choice",
+        "classLevel": "1",
+        "topic": "Numbers",
+        "difficulty": "easy",
+        "prompt": "ಕನ್ನಡದಲ್ಲಿ '5' ಸಂಖ್ಯೆಯನ್ನು ಹೇಗೆ ಬರೆಯುತ್ತಾರೆ?",
+        "options": [
+          "ಒಂದು",
+          "ಮೂರು",
+          "ಐದು",
+          "ನಾಲ್ಕು"
+        ],
+        "answer": "ಐದು",
+        "explanation": "5 ಸಂಖ್ಯೆಯನ್ನು ಕನ್ನಡದಲ್ಲಿ 'ಐದು' ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "7b8f9e21-3c4d-4e5f-9a0b-1c2d3e4f5g6h",
+        "type": "multiple-choice",
+        "classLevel": "1",
+        "topic": "Numbers",
+        "difficulty": "easy",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು '2' ಅನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+        "options": [
+          "ಎರಡು",
+          "ಆರು",
+          "ಏಳು",
+          "ಎಂಟು"
+        ],
+        "answer": "ಎರಡು",
+        "explanation": "2 ಸಂಖ್ಯೆಯನ್ನು ಕನ್ನಡದಲ್ಲಿ 'ಎರಡು' ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "1",
+        "topic": "Numbers",
+        "difficulty": "easy",
+        "prompt": "'ಹತ್ತು' ಎಂದರೆ ಯಾವ ಸಂಖ್ಯೆ?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "answer": "10",
+        "explanation": "ಕನ್ನಡದಲ್ಲಿ 'ಹತ್ತು' ಪದವು 10 ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 3,
+    "startedAt": "2026-10-24T06:01:59.328Z",
+    "status": "active"
+  },
+  {
+    "id": "qs_1792824636070",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 10,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113"
+    },
+    "questions": [
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Hello' in Kannada?",
+        "options": [
+          "ನಮಸ್ಕಾರ (Namaskara)",
+          "ಧನ್ಯವಾದ (Dhanyavada)",
+          "ಬನ್ನಿ (Banni)",
+          "ಹೋಗಿ ಬರ್ತೀನಿ (Hogi barthini)"
+        ],
+        "answer": "ನಮಸ್ಕಾರ (Namaskara)",
+        "explanation": "Namaskara is the standard way to greet someone in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'Thank you'?",
+        "options": [
+          "ಹೇಗಿದ್ದೀರಾ? (Hegiddira?)",
+          "ಧನ್ಯವಾದ (Dhanyavada)",
+          "ನಮಸ್ಕಾರ (Namaskara)",
+          "ಇಲ್ಲ (Illa)"
+        ],
+        "answer": "ಧನ್ಯವಾದ (Dhanyavada)",
+        "explanation": "Dhanyavada means Thank you in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask 'How are you?' in Kannada?",
+        "options": [
+          "ಏನಿದು? (Enidu?)",
+          "ಯಾರು ನೀವು? (Yaru neevu?)",
+          "ಹೇಗಿದ್ದೀರಾ? (Hegiddira?)",
+          "ಎಲ್ಲಿದೆ? (Ellide?)"
+        ],
+        "answer": "ಹೇಗಿದ್ದೀರಾ? (Hegiddira?)",
+        "explanation": "Hegiddira is the formal way to ask 'How are you?'",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Yes' in Kannada?",
+        "options": [
+          "ಇಲ್ಲ (Illa)",
+          "ಹೌದು (Houdu)",
+          "ಏನು (Enu)",
+          "ಬನ್ನಿ (Banni)"
+        ],
+        "answer": "ಹೌದು (Houdu)",
+        "explanation": "Houdu translates to 'Yes' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'No'?",
+        "options": [
+          "ಇಲ್ಲ (Illa)",
+          "ಹೌದು (Houdu)",
+          "ನಮಸ್ಕಾರ (Namaskara)",
+          "ಸರಿ (Sari)"
+        ],
+        "answer": "ಇಲ್ಲ (Illa)",
+        "explanation": "Illa translates to 'No' or 'Not there' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Come' in Kannada?",
+        "options": [
+          "ಹೋಗಿ (Hogi)",
+          "ಬನ್ನಿ (Banni)",
+          "ತಿನ್ನಿ (Tinni)",
+          "ಕುಡಿಯಿರಿ (Kudiyiri)"
+        ],
+        "answer": "ಬನ್ನಿ (Banni)",
+        "explanation": "Banni means 'Come' (polite/plural).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Go' in Kannada?",
+        "options": [
+          "ಬನ್ನಿ (Banni)",
+          "ನೋಡಿ (Nodi)",
+          "ಹೋಗಿ (Hogi)",
+          "ಕೇಳಿ (Keli)"
+        ],
+        "answer": "ಹೋಗಿ (Hogi)",
+        "explanation": "Hogi means 'Go' (polite/plural).",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What does 'Sari' (ಸರಿ) mean in Kannada?",
+        "options": [
+          "Ok / Correct",
+          "Wrong",
+          "No",
+          "Hello"
+        ],
+        "answer": "Ok / Correct",
+        "explanation": "Sari is used to mean 'Ok', 'Right', or 'Correct'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'What is your name?' in Kannada?",
+        "options": [
+          "ನಿಮ್ಮ ಹೆಸರೇನು? (Nimma hesarenu?)",
+          "ನೀವು ಯಾರು? (Neevu yaru?)",
+          "ಎಲ್ಲಿ ಹೋಗುತ್ತೀರಾ? (Elli hoguttira?)",
+          "ಇದು ಏನು? (Idu enu?)"
+        ],
+        "answer": "ನಿಮ್ಮ ಹೆಸರೇನು? (Nimma hesarenu?)",
+        "explanation": "Nimma hesarenu translates to 'What is your name?'",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What does 'Naanu' (ನಾನು) mean?",
+        "options": [
+          "You",
+          "He",
+          "I",
+          "We"
+        ],
+        "answer": "I",
+        "explanation": "Naanu is the first-person singular pronoun meaning 'I'.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {
+      "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d": "ನಮಸ್ಕಾರ (Namaskara)",
+      "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e": "ಧನ್ಯವಾದ (Dhanyavada)",
+      "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f": "ಹೇಗಿದ್ದೀರಾ? (Hegiddira?)",
+      "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a": "ಹೌದು (Houdu)",
+      "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b": "ಇಲ್ಲ (Illa)",
+      "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c": "ಬನ್ನಿ (Banni)",
+      "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d": "ಹೋಗಿ (Hogi)",
+      "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e": "Ok / Correct",
+      "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f": "ನಿಮ್ಮ ಹೆಸರೇನು? (Nimma hesarenu?)"
+    },
+    "totalQuestions": 10,
+    "startedAt": "2026-10-24T06:50:36.070Z",
+    "status": "completed",
+    "score": 90,
+    "completedAt": "2026-10-24T06:51:35.646Z"
+  },
+  {
+    "id": "qs_1792824706143",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 10,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113"
+    },
+    "questions": [
+      {
+        "id": "1d8a4f91-5b23-4c57-a1b2-c3d4e5f6g7h8",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Hello' in Kannada?",
+        "options": [
+          "Namaskara",
+          "Dhanyavada",
+          "Shubhodaya",
+          "Hogi baruttene"
+        ],
+        "answer": "Namaskara",
+        "explanation": "Namaskara is the standard respectful greeting in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "2e9b5g02-6c34-5d68-b2c3-d4e5f6g7h8i9",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'Thank you'?",
+        "options": [
+          "Ollede",
+          "Dhanyavada",
+          "Beku",
+          "Nimma"
+        ],
+        "answer": "Dhanyavada",
+        "explanation": "Dhanyavada is the word used to express gratitude.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "3f0c6h13-7d45-6e79-c3d4-e5f6g7h8i9j0",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask 'How are you?' in Kannada?",
+        "options": [
+          "Neevu hegiddiri?",
+          "Nimma hesaru enu?",
+          "Nimage enu beku?",
+          "Nanu chennagiddene"
+        ],
+        "answer": "Neevu hegiddiri?",
+        "explanation": "Neevu hegiddiri is the standard way to ask 'How are you?' in a formal or respectful way.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "4g1d7i24-8e56-7f80-d4e5-f6g7h8i9j0k1",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What does 'Shubhodaya' mean?",
+        "options": [
+          "Good night",
+          "Good evening",
+          "Good morning",
+          "Goodbye"
+        ],
+        "answer": "Good morning",
+        "explanation": "Shubha means good and Udaya means rise/morning.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "5h2e8j35-9f67-8g91-e5f6-g7h8i9j0k1l2",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Yes' in Kannada?",
+        "options": [
+          "Alla",
+          "Illi",
+          "Houdu",
+          "Banni"
+        ],
+        "answer": "Houdu",
+        "explanation": "Houdu is the Kannada word for 'Yes'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "6i3f9k46-0g78-9h02-f6g7-h8i9j0k1l2m3",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the translation of 'No' in Kannada?",
+        "options": [
+          "Illa",
+          "Houdu",
+          "Nanu",
+          "Enu"
+        ],
+        "answer": "Illa",
+        "explanation": "Illa is the word used to indicate negation or 'no'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "7j4g0l57-1h89-0i13-g7h8-i9j0k1l2m3n4",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'What is your name?' in Kannada?",
+        "options": [
+          "Nimma ooru yavudu?",
+          "Nimma hesaru enu?",
+          "Neevu yaru?",
+          "Nimma vayasu enu?"
+        ],
+        "answer": "Nimma hesaru enu?",
+        "explanation": "Nimma (your) hesaru (name) enu (what) is the phrase for asking a name.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "8k5h1m68-2i90-1j24-h8i9-j0k1l2m3n4o5",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What does 'Banni' mean?",
+        "options": [
+          "Go",
+          "Eat",
+          "Come",
+          "Sit"
+        ],
+        "answer": "Come",
+        "explanation": "Banni is a respectful form of 'come' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "9l6i2n79-3j01-2k35-i9j0-k1l2m3n4o5p6",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Please' in Kannada?",
+        "options": [
+          "Dayavittu",
+          "Dhanyavada",
+          "Beku",
+          "Illa"
+        ],
+        "answer": "Dayavittu",
+        "explanation": "Dayavittu is the standard polite word for 'please'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "0m7j3o80-4k12-3l46-j0k1-l2m3n4o5p6q7",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What does 'Hogi baruttene' mean?",
+        "options": [
+          "Good morning",
+          "I will go and come back",
+          "How are you?",
+          "I am fine"
+        ],
+        "answer": "I will go and come back",
+        "explanation": "Hogi baruttene is the cultural equivalent of saying 'Goodbye' or 'See you later'.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {
+      "1d8a4f91-5b23-4c57-a1b2-c3d4e5f6g7h8": "Namaskara",
+      "2e9b5g02-6c34-5d68-b2c3-d4e5f6g7h8i9": "Dhanyavada",
+      "3f0c6h13-7d45-6e79-c3d4-e5f6g7h8i9j0": "Neevu hegiddiri?",
+      "4g1d7i24-8e56-7f80-d4e5-f6g7h8i9j0k1": "Good morning"
+    },
+    "totalQuestions": 10,
+    "startedAt": "2026-10-24T06:51:46.143Z",
+    "status": "completed",
+    "score": 40,
+    "completedAt": "2026-10-24T06:52:16.126Z"
+  },
+  {
+    "id": "qs_1792824952337",
+    "learnerId": "default",
+    "config": {
+      "classLevel": "4",
+      "topic": "Verbs",
+      "difficulty": "easy",
+      "count": 3,
+      "mode": "practice",
+      "learnerId": "default"
+    },
+    "questions": [
+      {
+        "id": "e4f8a123-9b4c-4d8e-a123-567890abcdef",
+        "type": "multiple-choice",
+        "classLevel": "4",
+        "topic": "Verbs",
+        "difficulty": "easy",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ 'ಕ್ರಿಯಾಪದ' ಯಾವುದು?",
+        "options": [
+          "ರಾಮು",
+          "ಓದುತ್ತಾನೆ",
+          "ಹಸಿರು",
+          "ಸುಂದರ"
+        ],
+        "answer": "ಓದುತ್ತಾನೆ",
+        "explanation": "ಓದುತ್ತಾನೆ ಎಂಬುದು ಕೆಲಸವನ್ನು ಅಥವಾ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುವ ಪದ, ಆದ್ದರಿಂದ ಇದು ಕ್ರಿಯಾಪದ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "4",
+        "topic": "Verbs",
+        "difficulty": "easy",
+        "prompt": "'ಹುಡುಗನು ಹಾಲು ಕುಡಿದನು' - ಈ ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಿಯಾಪದ ಯಾವುದು?",
+        "options": [
+          "ಹುಡುಗನು",
+          "ಹಾಲು",
+          "ಕುಡಿದನು",
+          "ಯಾವುದೂ ಅಲ್ಲ"
+        ],
+        "answer": "ಕುಡಿದನು",
+        "explanation": "ಕುಡಿದನು ಎಂಬುದು ಇಲ್ಲಿ ನಡೆದ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಇದು ಕ್ರಿಯಾಪದ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5e4d3c2-b1a0-4987-9654-3210fedcba98",
+        "type": "multiple-choice",
+        "classLevel": "4",
+        "topic": "Verbs",
+        "difficulty": "easy",
+        "prompt": "'ಪಕ್ಷಿಯು ಆಕಾಶದಲ್ಲಿ ಹಾರಿತು' - ಈ ವಾಕ್ಯದಲ್ಲಿರುವ ಕ್ರಿಯಾಪದ ಯಾವುದು?",
+        "options": [
+          "ಪಕ್ಷಿಯು",
+          "ಆಕಾಶದಲ್ಲಿ",
+          "ಹಾರಿತು",
+          "ಮೇಲಿನ ಎಲ್ಲವೂ"
+        ],
+        "answer": "ಹಾರಿತು",
+        "explanation": "ಹಾರಿತು ಎಂಬುದು ಕ್ರಿಯೆಯನ್ನು (ಕೆಲಸವನ್ನು) ಸೂಚಿಸುವ ಪದವಾಗಿದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 3,
+    "startedAt": "2026-10-24T06:55:52.337Z",
+    "status": "active"
+  },
+  {
+    "id": "qs_1792824976598",
+    "learnerId": "default",
+    "config": {
+      "classLevel": "4",
+      "topic": "Verbs",
+      "difficulty": "easy",
+      "count": 3,
+      "mode": "practice",
+      "learnerId": "default"
+    },
+    "questions": [
+      {
+        "id": "e4f8a1b2-c3d4-4e5f-a6b7-c8d9e0f1a2b3",
+        "type": "multiple-choice",
+        "classLevel": "4",
+        "topic": "Verbs",
+        "difficulty": "easy",
+        "prompt": "‘ರಾಮು ಹಣ್ಣನ್ನು ತಿನ್ನುತ್ತಾನೆ’ - ಈ ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಿಯಾಪದ ಯಾವುದು?",
+        "options": [
+          "ರಾಮು",
+          "ಹಣ್ಣನ್ನು",
+          "ತಿನ್ನುತ್ತಾನೆ",
+          "ಯಾವುದೂ ಅಲ್ಲ"
+        ],
+        "answer": "ತಿನ್ನುತ್ತಾನೆ",
+        "explanation": "ವಾಕ್ಯದಲ್ಲಿ ನಡೆಯುವ ಕೆಲಸವನ್ನು ತಿಳಿಸುವ ಪದವೇ ಕ್ರಿಯಾಪದ. ಇಲ್ಲಿ 'ತಿನ್ನುತ್ತಾನೆ' ಎಂಬುದು ಕೆಲಸವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5g9b2c3-d4e5-4f6g-b7c8-d9e0f1a2b3c4",
+        "type": "multiple-choice",
+        "classLevel": "4",
+        "topic": "Verbs",
+        "difficulty": "easy",
+        "prompt": "‘ಮಗು ನಗುತ್ತಿದೆ’ - ಈ ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಿಯಾಪದ ಯಾವುದು?",
+        "options": [
+          "ಮಗು",
+          "ನಗುತ್ತಿದೆ",
+          "ಮತ್ತು",
+          "ಇದು"
+        ],
+        "answer": "ನಗುತ್ತಿದೆ",
+        "explanation": "'ನಗುವುದು' ಒಂದು ಕ್ರಿಯೆ, ಆದ್ದರಿಂದ 'ನಗುತ್ತಿದೆ' ಎಂಬುದು ಕ್ರಿಯಾಪದವಾಗಿದೆ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a6h0c3d4-e5f6-4g7h-c8d9-e0f1a2b3c4d5",
+        "type": "multiple-choice",
+        "classLevel": "4",
+        "topic": "Verbs",
+        "difficulty": "easy",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಕ್ರಿಯಾಪದವಾಗಿದೆ?",
+        "options": [
+          "ಶಾಲಾ",
+          "ಓದುತ್ತಾನೆ",
+          "ಒಳ್ಳೆಯ",
+          "ನಾನು"
+        ],
+        "answer": "ಓದುತ್ತಾನೆ",
+        "explanation": "ಒಂದು ಕ್ರಿಯೆಯನ್ನು (ಕೆಲಸವನ್ನು) ಸೂಚಿಸುವ ಪದವೇ ಕ್ರಿಯಾಪದ. 'ಓದುತ್ತಾನೆ' ಎಂಬುದು ಓದುವ ಕೆಲಸವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 3,
+    "startedAt": "2026-10-24T06:56:16.598Z",
+    "status": "active"
+  },
+  {
+    "id": "qs_1792825210441",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113",
+      "batchNumber": 1,
+      "excludeQuestions": []
+    },
+    "questions": [
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Good morning' in Kannada?",
+        "options": [
+          "ಶುಭ ಮಧ್ಯಾಹ್ನ (Shubha madhyahna)",
+          "ಶುಭ ರಾತ್ರಿ (Shubha ratri)",
+          "ಶುಭೋದಯ (Shubhodaya)",
+          "ನಮಸ್ಕಾರ (Namaskara)"
+        ],
+        "answer": "ಶುಭೋದಯ (Shubhodaya)",
+        "explanation": "Shubhodaya (ಶುಭೋದಯ) is the standard term used to wish someone a 'Good morning' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which phrase is used to ask 'How are you?' in Kannada?",
+        "options": [
+          "ನೀವು ಹೇಗಿದ್ದೀರಿ? (Neevu hegiddiri?)",
+          "ನನ್ನ ಹೆಸರು... (Nanna hesaru...)",
+          "ಊಟ ಆಯ್ತಾ? (Oota aytha?)",
+          "ಧನ್ಯವಾದಗಳು (Dhanyavadagalu)"
+        ],
+        "answer": "ನೀವು ಹೇಗಿದ್ದೀರಿ? (Neevu hegiddiri?)",
+        "explanation": "Neevu hegiddiri? is the formal and most common way to ask 'How are you?' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'Thank you'?",
+        "options": [
+          "ಬನ್ನಿ (Banni)",
+          "ಹೋಗಿ ಬರ್ತೀನಿ (Hogi bartini)",
+          "ಧನ್ಯವಾದಗಳು (Dhanyavadagalu)",
+          "ಕ್ಷಮಿಸಿ (Kshamisi)"
+        ],
+        "answer": "ಧನ್ಯವಾದಗಳು (Dhanyavadagalu)",
+        "explanation": "Dhanyavadagalu is the standard Kannada word used to express gratitude or say 'Thank you'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If you want to say 'Sorry' or 'Excuse me' in Kannada, which word should you use?",
+        "options": [
+          "ಹೌದು (Houdu)",
+          "ಕ್ಷಮಿಸಿ (Kshamisi)",
+          "ಇಲ್ಲ (Illa)",
+          "ನಮಸ್ಕಾರ (Namaskara)"
+        ],
+        "answer": "ಕ್ಷಮಿಸಿ (Kshamisi)",
+        "explanation": "Kshamisi is the polite term used for both 'Sorry' and 'Excuse me' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8g9h",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'Yes' in Kannada?",
+        "options": [
+          "ಹೌದು (Houdu)",
+          "ಇಲ್ಲ (Illa)",
+          "ಬೇಡ (Beda)",
+          "ಬನ್ನಿ (Banni)"
+        ],
+        "answer": "ಹೌದು (Houdu)",
+        "explanation": "Houdu is the affirmative word used to say 'Yes' in Kannada.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {
+      "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d": "ಶುಭ ರಾತ್ರಿ (Shubha ratri)"
+    },
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T07:00:10.441Z",
+    "status": "completed",
+    "score": 0,
+    "completedAt": "2026-10-24T07:00:31.081Z"
+  },
+  {
+    "id": "qs_1792825243816",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113",
+      "batchNumber": 2,
+      "excludeQuestions": [
+        "How do you say 'Good morning' in Kannada?",
+        "Which phrase is used to ask 'How are you?' in Kannada?",
+        "What is the Kannada word for 'Thank you'?",
+        "If you want to say 'Sorry' or 'Excuse me' in Kannada, which word should you use?",
+        "How do you say 'Yes' in Kannada?"
+      ]
+    },
+    "questions": [
+      {
+        "id": "e4f8a1b2-c3d4-4e5f-a6b7-c8d9e0f1a2b3",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If you want to say 'Welcome' to someone in Kannada, which phrase should you use?",
+        "options": [
+          "Namaskara",
+          "Swagata",
+          "Hogi bartene",
+          "Subhodaya"
+        ],
+        "answer": "Swagata",
+        "explanation": "'Swagata' is the standard formal way to say 'Welcome' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5g9b2c3-d4e5-4f6g-b7c8-d9e0f1a2b3c4",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which phrase is used to say 'See you again' or 'Goodbye' in Kannada?",
+        "options": [
+          "Hogi bartene",
+          "Oota ayitha",
+          "Nimma hesarenu",
+          "Nanage gotilla"
+        ],
+        "answer": "Hogi bartene",
+        "explanation": "'Hogi bartene' literally translates to 'I will go and come back', which is the common way to say goodbye.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a6h0c3d4-e5f6-4g7h-c8d9-e0f1a2b3c4d5",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask someone 'What is your name?' in Kannada?",
+        "options": [
+          "Ninna hesaru yenu?",
+          "Nimma hesaru yenu?",
+          "Yelli hoguttira?",
+          "Ee kelsa yaru madiddu?"
+        ],
+        "answer": "Nimma hesaru yenu?",
+        "explanation": "'Nimma hesaru yenu?' is the polite and standard way to ask someone's name.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b7i1d4e5-f6g7-4h8i-d9e0-f1a2b3c4d5e6",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "When asking 'Have you eaten?' in Kannada, which phrase is correct?",
+        "options": [
+          "Oota ayitha?",
+          "Nidde banditha?",
+          "Yenu maduttiddira?",
+          "Hoge bartiya?"
+        ],
+        "answer": "Oota ayitha?",
+        "explanation": "'Oota ayitha?' is a very common daily greeting in Kannada culture used to ask if someone has had their meal.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c8j2e5f6-g7h8-4i9j-e0f1-a2b3c4d5e6f7",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the Kannada word for 'No'?",
+        "options": [
+          "Haudu",
+          "Illa",
+          "Bere",
+          "Sari"
+        ],
+        "answer": "Illa",
+        "explanation": "'Illa' is the standard Kannada word for 'No' or 'None'.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T07:00:43.816Z",
+    "status": "completed",
+    "score": 0,
+    "completedAt": "2026-10-24T07:00:58.185Z"
+  },
+  {
+    "id": "qs_1792825268941",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113",
+      "batchNumber": 3,
+      "excludeQuestions": [
+        "How do you say 'Good morning' in Kannada?",
+        "Which phrase is used to ask 'How are you?' in Kannada?",
+        "What is the Kannada word for 'Thank you'?",
+        "If you want to say 'Sorry' or 'Excuse me' in Kannada, which word should you use?",
+        "How do you say 'Yes' in Kannada?",
+        "If you want to say 'Welcome' to someone in Kannada, which phrase should you use?",
+        "Which phrase is used to say 'See you again' or 'Goodbye' in Kannada?",
+        "How do you ask someone 'What is your name?' in Kannada?",
+        "When asking 'Have you eaten?' in Kannada, which phrase is correct?",
+        "What is the Kannada word for 'No'?"
+      ]
+    },
+    "questions": [
+      {
+        "id": "e4f8a2b1-9d3c-4a5e-b8f7-2d1c6a9b4e5f",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which phrase would you use to say 'Please' in Kannada?",
+        "options": [
+          "ದಯವಿಟ್ಟು (Dayavittu)",
+          "ನಮಸ್ಕಾರ (Namaskara)",
+          "ಹೋಗಿ ಬನ್ನಿ (Hogi banni)",
+          "ಅಯ್ಯೋ (Ayyo)"
+        ],
+        "answer": "ದಯವಿಟ್ಟು (Dayavittu)",
+        "explanation": "In Kannada, 'Dayavittu' is the polite word used to say 'Please' when requesting something.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5d9c3a2-0e4d-5b6f-c9a8-3e2d7b0c5f6g",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If you want to say 'It is okay' or 'It is alright' in Kannada, which phrase should you use?",
+        "options": [
+          "ಪರವಾಗಿಲ್ಲ (Paravagilla)",
+          "ಬೇಡ (Beda)",
+          "ತುಂಬಾ ಧನ್ಯವಾದ (Tumba dhanyavada)",
+          "ಶುಭ ದಿನ (Shubha dina)"
+        ],
+        "answer": "ಪರವಾಗಿಲ್ಲ (Paravagilla)",
+        "explanation": "'Paravagilla' is commonly used to express that something is fine, acceptable, or that an apology is not necessary.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a6e0b4c3-1f5e-6c7d-d0b9-4f3e8c1d6g7h",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask someone 'Where are you going?' in Kannada?",
+        "options": [
+          "ನೀವು ಎಲ್ಲಿದ್ದೀರಿ? (Nivu elliddiri?)",
+          "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಾ? (Nivu ellige hoguttiddira?)",
+          "ನಿಮ್ಮ ಊರು ಯಾವುದು? (Nimma ooru yavudu?)",
+          "ನೀವು ಯಾರು? (Nivu yaaru?)"
+        ],
+        "answer": "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಾ? (Nivu ellige hoguttiddira?)",
+        "explanation": "'Nivu ellige hoguttiddira?' directly translates to 'Where are you going?'",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b7f1c5d4-2a6f-7d8e-e1c0-5g4f9d2e7h8i",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "When someone does something helpful, how do you say 'It's my pleasure' or 'You are welcome' in Kannada?",
+        "options": [
+          "ನಮಸ್ಕಾರ (Namaskara)",
+          "ಅದಕ್ಕೇನಿಲ್ಲ (Adakkenilla)",
+          "ಸರಿ (Sari)",
+          "ನನಗೆ ಗೊತ್ತಿಲ್ಲ (Nanage gottilla)"
+        ],
+        "answer": "ಅದಕ್ಕೇನಿಲ್ಲ (Adakkenilla)",
+        "explanation": "'Adakkenilla' is a polite way to say 'It is nothing' or 'You are welcome' in response to someone thanking you.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c8g2d6e5-3b7g-8e9f-f2d1-6h5g0e3f8i9j",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If you want to say 'I don't know' in Kannada, which phrase should you use?",
+        "options": [
+          "ನನಗೆ ಅರ್ಥವಾಯಿತು (Nanage arthavayitu)",
+          "ನನಗೆ ಗೊತ್ತಿಲ್ಲ (Nanage gottilla)",
+          "ಇದು ಒಳ್ಳೆಯದು (Idu olleyadu)",
+          "ಬೇಗ ಬನ್ನಿ (Bega banni)"
+        ],
+        "answer": "ನನಗೆ ಗೊತ್ತಿಲ್ಲ (Nanage gottilla)",
+        "explanation": "'Nanage gottilla' is the standard way to express 'I do not know' in Kannada.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T07:01:08.941Z",
+    "status": "completed",
+    "score": 0,
+    "completedAt": "2026-10-24T07:01:48.852Z"
+  },
+  {
+    "id": "qs_1792850150427",
+    "learnerId": "default",
+    "config": {
+      "classLevel": "1",
+      "topic": "Varnamale",
+      "difficulty": "easy",
+      "count": 2,
+      "mode": "practice",
+      "learnerId": "default"
+    },
+    "questions": [
+      {
+        "id": "e4f8d2a1-6b3a-4c5e-8d9f-7a2b1c3d4e5f",
+        "type": "multiple-choice",
+        "classLevel": "1",
+        "topic": "Varnamale",
+        "difficulty": "easy",
+        "prompt": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯ ಮೊದಲ ಅಕ್ಷರ ಯಾವುದು? (Which is the first letter of the Kannada alphabet?)",
+        "options": [
+          "ಆ",
+          "ಅ",
+          "ಈ",
+          "ಉ"
+        ],
+        "answer": "ಅ",
+        "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯು 'ಅ' ದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ 'ಅ' ಸರಿಯಾದ ಉತ್ತರ.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a9b8c7d6-e5f4-4321-b0a9-8d7c6b5a4f3e",
+        "type": "multiple-choice",
+        "classLevel": "1",
+        "topic": "Varnamale",
+        "difficulty": "easy",
+        "prompt": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ 'ಸ್ವರ' (Vowel) ಯಾವುದು? (Which of the following is a vowel?)",
+        "options": [
+          "ಕ",
+          "ಗ",
+          "ಈ",
+          "ಚ"
+        ],
+        "answer": "ಈ",
+        "explanation": "'ಈ' ಎಂಬುದು ಸ್ವರಗಳ ಗುಂಪಿಗೆ ಸೇರುತ್ತದೆ, ಉಳಿದವು ವ್ಯಂಜನಗಳಾಗಿವೆ.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 2,
+    "startedAt": "2026-10-24T13:55:50.427Z",
+    "status": "active"
+  },
+  {
+    "id": "qs_1792852058888",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113",
+      "batchNumber": 1,
+      "excludeQuestions": []
+    },
+    "questions": [
+      {
+        "id": "e4f8a1c0-7b2a-4d3f-9e1a-5c2b8d4e9f1a",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'How are you?' in Kannada?",
+        "options": [
+          "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+          "ನಮಸ್ಕಾರ",
+          "ಧನ್ಯವಾದಗಳು",
+          "ಶುಭೋದಯ"
+        ],
+        "answer": "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+        "explanation": "In Kannada, 'ನೀವು ಹೇಗಿದ್ದೀರಿ?' (Neevu hegiddiri?) is the standard way to ask 'How are you?' politely.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a9b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which word is used to say 'Thank you' in Kannada?",
+        "options": [
+          "ಬನ್ನಿ",
+          "ಧನ್ಯವಾದಗಳು",
+          "ಹೋಗಿ ಬನ್ನಿ",
+          "ನಮಸ್ಕಾರ"
+        ],
+        "answer": "ಧನ್ಯವಾದಗಳು",
+        "explanation": "'ಧನ್ಯವಾದಗಳು' (Dhanyavadagalu) is the formal and most common way to express gratitude or say 'Thank you'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f1e2d3c4-b5a6-4987-a0b1-c2d3e4f5a6b7",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the appropriate Kannada response to 'Good Morning'?",
+        "options": [
+          "ಶುಭೋದಯ",
+          "ನಮಸ್ಕಾರ",
+          "ಊಟ ಆಯ್ತಾ",
+          "ಬನ್ನಿ"
+        ],
+        "answer": "ಶುಭೋದಯ",
+        "explanation": "'ಶುಭೋದಯ' (Shubh-odaya) directly translates to 'Good morning' and is the standard greeting used at the start of the day.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b7a6c5d4-e3f2-4109-8d7c-b6a5e4d3c2b1",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If someone asks 'ಊಟ ಆಯ್ತಾ?' (Oota aayta?), what are they asking?",
+        "options": [
+          "Where are you going?",
+          "What is your name?",
+          "Did you have your meal?",
+          "How are you?"
+        ],
+        "answer": "Did you have your meal?",
+        "explanation": "'ಊಟ ಆಯ್ತಾ?' is a very common social greeting in Kannada culture, literally meaning 'Is the meal done?' or 'Have you eaten?'",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d4e5f6a7-b8c9-4d0e-a1f2-b3c4d5e6f7a8",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which phrase is used to say 'Goodbye' or 'See you later' in Kannada?",
+        "options": [
+          "ಹೋಗಿ ಬನ್ನಿ",
+          "ನಮಸ್ಕಾರ",
+          "ಕ್ಷಮಿಸಿ",
+          "ಹಲೋ"
+        ],
+        "answer": "ಹೋಗಿ ಬನ್ನಿ",
+        "explanation": "'ಹೋಗಿ ಬನ್ನಿ' (Hogi banni) literally means 'Go and come back', which is the culturally appropriate way to say goodbye to someone.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T14:27:38.888Z",
+    "status": "completed",
+    "score": 0,
+    "completedAt": "2026-10-24T14:27:43.527Z"
+  },
+  {
+    "id": "qs_1792852069471",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113",
+      "batchNumber": 2,
+      "excludeQuestions": [
+        "How do you say 'How are you?' in Kannada?",
+        "Which word is used to say 'Thank you' in Kannada?",
+        "What is the appropriate Kannada response to 'Good Morning'?",
+        "If someone asks 'ಊಟ ಆಯ್ತಾ?' (Oota aayta?), what are they asking?",
+        "Which phrase is used to say 'Goodbye' or 'See you later' in Kannada?"
+      ]
+    },
+    "questions": [
+      {
+        "id": "5f3a1b2c-8d9e-4f0a-b1c2-3d4e5f6g7h8i",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If you want to say 'Nice to meet you' in Kannada, which phrase should you use?",
+        "options": [
+          "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾದದ್ದು ಸಂತೋಷವಾಯಿತು",
+          "ನಮಸ್ಕಾರ",
+          "ಹೇಗಿದ್ದೀರಿ?",
+          "ಮತ್ತೆ ಸಿಗೋಣ"
+        ],
+        "answer": "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾದದ್ದು ಸಂತೋಷವಾಯಿತು",
+        "explanation": "‘ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾದದ್ದು ಸಂತೋಷವಾಯಿತು’ translates to 'It was a pleasure to meet you'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "6a4b2c3d-9e0f-4a1b-b2c3-4d5e6f7g8h9j",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which Kannada word is commonly used to express 'Excuse me' when trying to get someone's attention?",
+        "options": [
+          "ಕ್ಷಮಿಸಿ",
+          "ದಯವಿಟ್ಟು",
+          "ಹೌದು",
+          "ಇಲ್ಲ"
+        ],
+        "answer": "ಕ್ಷಮಿಸಿ",
+        "explanation": "‘ಕ್ಷಮಿಸಿ’ (Kshamisi) is the standard term used for 'Excuse me' or 'Forgive me' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "7b5c3d4e-0f1g-5b2c-c3d4-5e6f7g8h9i0k",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask 'What is your name?' in Kannada?",
+        "options": [
+          "ನಿಮ್ಮ ಹೆಸರೇನು?",
+          "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+          "ನಿಮಗೆ ಏನು ಬೇಕು?",
+          "ಸಮಯ ಎಷ್ಟು?"
+        ],
+        "answer": "ನಿಮ್ಮ ಹೆಸರೇನು?",
+        "explanation": "‘ನಿಮ್ಮ’ (Your) ‘ಹೆಸರೇನು’ (what is name) forms the question 'What is your name?'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "8c6d4e5f-1g2h-6c3d-d4e5-6f7g8h9i0j1l",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which word would you add to a request in Kannada to make it polite, equivalent to 'please'?",
+        "options": [
+          "ದಯವಿಟ್ಟು",
+          "ತುಂಬಾ",
+          "ಸ್ವಲ್ಪ",
+          "ಬೇಗ"
+        ],
+        "answer": "ದಯವಿಟ್ಟು",
+        "explanation": "‘ದಯವಿಟ್ಟು’ (Dayavittu) is the exact translation for 'please' in a polite request.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "9d7e5f6g-2h3i-7d4e-e5f6-7g8h9i0j1k2m",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'I am fine' in response to 'How are you?' in Kannada?",
+        "options": [
+          "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+          "ನನಗೆ ಅರ್ಥವಾಯಿತು",
+          "ನಾನು ಬರುತ್ತೇನೆ",
+          "ನಾನು ಹೋಗುತ್ತಿದ್ದೇನೆ"
+        ],
+        "answer": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+        "explanation": "‘ನಾನು’ (I) ‘ಚೆನ್ನಾಗಿದ್ದೇನೆ’ (am fine/good) is the standard way to answer about one's well-being.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T14:27:49.471Z",
+    "status": "completed",
+    "score": 0,
+    "completedAt": "2026-10-24T14:28:17.016Z"
+  },
+  {
+    "id": "qs_1792852117936",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113",
+      "batchNumber": 3,
+      "excludeQuestions": [
+        "How do you say 'How are you?' in Kannada?",
+        "Which word is used to say 'Thank you' in Kannada?",
+        "What is the appropriate Kannada response to 'Good Morning'?",
+        "If someone asks 'ಊಟ ಆಯ್ತಾ?' (Oota aayta?), what are they asking?",
+        "Which phrase is used to say 'Goodbye' or 'See you later' in Kannada?",
+        "If you want to say 'Nice to meet you' in Kannada, which phrase should you use?",
+        "Which Kannada word is commonly used to express 'Excuse me' when trying to get someone's attention?",
+        "How do you ask 'What is your name?' in Kannada?",
+        "Which word would you add to a request in Kannada to make it polite, equivalent to 'please'?",
+        "How do you say 'I am fine' in response to 'How are you?' in Kannada?"
+      ]
+    },
+    "questions": [
+      {
+        "id": "e4f8a1c0-7b2a-4a8e-9d3f-5c2a1b9e8d7a",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If you want to say 'Welcome' to someone in Kannada, which word should you use?",
+        "options": [
+          "ಸ್ವಾಗತ (Swagata)",
+          "ಹೋಗಿ ಬರ್ತೀನಿ (Hogi bartini)",
+          "ಕ್ಷಮಿಸಿ (Kshamisi)",
+          "ನಮಸ್ಕಾರ (Namaskara)"
+        ],
+        "answer": "ಸ್ವಾಗತ (Swagata)",
+        "explanation": "Swagata is the standard formal word for 'Welcome' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5a9b2d1-8c3b-5b9f-0e4a-6d3b2c0f9e8b",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you ask 'Where are you going?' in Kannada?",
+        "options": [
+          "ನೀವು ಎಲ್ಲಿದ್ದೀರಿ? (Neevu elliddiri?)",
+          "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಾ? (Neevu ellige hoguttiddira?)",
+          "ನೀವು ಏನು ಮಾಡುತ್ತಿದ್ದೀರಾ? (Neevu enu maduttiddira?)",
+          "ನಿಮ್ಮ ಊರು ಯಾವುದು? (Nimma ooru yavudu?)"
+        ],
+        "answer": "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಾ? (Neevu ellige hoguttiddira?)",
+        "explanation": "'Ellige' means 'to where' and 'hoguttiddira' means 'are going', making it the correct way to ask about a destination.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a6b0c3e2-9d4c-6c0a-1f5b-7e4c3d1a0f9c",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which phrase is used to say 'Yes' in Kannada?",
+        "options": [
+          "ಇಲ್ಲ (Illa)",
+          "ಬೇಡ (Beda)",
+          "ಹೌದು (Houdu)",
+          "ಗೊತ್ತಿಲ್ಲ (Gottilla)"
+        ],
+        "answer": "ಹೌದು (Houdu)",
+        "explanation": "Houdu is the Kannada word for 'Yes', whereas Illa means 'No'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "b7c1d4f3-0e5d-7d1b-2a6c-8f5d4e2b1a0d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If you don't understand something and want to say 'I don't know' in Kannada, what do you say?",
+        "options": [
+          "ನನಗೆ ಗೊತ್ತಿಲ್ಲ (Nanage gottilla)",
+          "ನನಗೆ ಅರ್ಥವಾಗಿದೆ (Nanage arthavagide)",
+          "ಸರಿ (Sari)",
+          "ಧನ್ಯವಾದ (Dhanyavada)"
+        ],
+        "answer": "ನನಗೆ ಗೊತ್ತಿಲ್ಲ (Nanage gottilla)",
+        "explanation": "Nanage gottilla translates directly to 'To me, it is not known' or 'I don't know'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c8d2e5a4-1f6e-8e2c-3b7d-9a6e5f3c2b1e",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What does the phrase 'ಸ್ವಲ್ಪ ನಿಲ್ಲಿ' (Swalpa nilli) mean in Kannada?",
+        "options": [
+          "Go away",
+          "Wait a moment",
+          "Sit down",
+          "Eat something"
+        ],
+        "answer": "Wait a moment",
+        "explanation": "Swalpa means 'a little' or 'a bit', and nilli is the command form of 'to stand/stop', used commonly to mean 'wait a moment'.",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T14:28:37.936Z",
+    "status": "active"
+  },
+  {
+    "id": "qs_1792852514044",
+    "learnerId": "learner_1792814811113",
+    "config": {
+      "classLevel": "beginner",
+      "topic": "Greetings and Daily Communication",
+      "difficulty": "easy",
+      "count": 5,
+      "mode": "practice",
+      "learnerId": "learner_1792814811113",
+      "batchNumber": 1,
+      "excludeQuestions": []
+    },
+    "questions": [
+      {
+        "id": "e4f8d2a1-6b3c-4a9e-8f2d-7c1a9b5d4e3f",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you say 'How are you?' in Kannada?",
+        "options": [
+          "ನೀವು ಹೇಗಿದ್ದೀರಿ? (Neevu heggiddiri?)",
+          "ನೀವು ಎಲ್ಲಿ ಹೋಗಿದ್ದೀರಿ? (Neevu elli hogiddiri?)",
+          "ನಿಮ್ಮ ಹೆಸರು ಏನು? (Nimma hesaru enu?)",
+          "ನೀವು ಬಂದಿದ್ದೀರಾ? (Neevu bandiddira?)"
+        ],
+        "answer": "ನೀವು ಹೇಗಿದ್ದೀರಿ? (Neevu heggiddiri?)",
+        "explanation": "'ನೀವು ಹೇಗಿದ್ದೀರಿ?' translates directly to 'How are you?' and is the standard way to inquire about someone's well-being.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "Which phrase is used to say 'Thank you' in Kannada?",
+        "options": [
+          "ನಮಸ್ಕಾರ (Namaskara)",
+          "ಧನ್ಯವಾದಗಳು (Dhanyavadagalu)",
+          "ಕ್ಷಮಿಸಿ (Kshamisi)",
+          "ಶುಭೋದಯ (Shubhodaya)"
+        ],
+        "answer": "ಧನ್ಯವಾದಗಳು (Dhanyavadagalu)",
+        "explanation": "'ಧನ್ಯವಾದಗಳು' (Dhanyavadagalu) is the formal and standard Kannada word for 'Thank you'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "f5e4d3c2-b1a0-49f8-a7b6-c5d4e3f2a1b0",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "If you want to say 'Excuse me' or 'Sorry' to someone, which word do you use?",
+        "options": [
+          "ಹೌದು (Houdu)",
+          "ಇಲ್ಲ (Illa)",
+          "ಕ್ಷಮಿಸಿ (Kshamisi)",
+          "ಬನ್ನಿ (Banni)"
+        ],
+        "answer": "ಕ್ಷಮಿಸಿ (Kshamisi)",
+        "explanation": "'ಕ್ಷಮಿಸಿ' (Kshamisi) is the polite way to say 'Excuse me' or 'I am sorry' in Kannada.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "d9c8b7a6-e5f4-4a3b-9c8d-7e6f5a4b3c2d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "What is the common morning greeting in Kannada?",
+        "options": [
+          "ಶುಭ ರಾತ್ರಿ (Shubha ratri)",
+          "ಶುಭೋದಯ (Shubhodaya)",
+          "ಹೋಗಿ ಬರುತ್ತೇನೆ (Hogi baruttene)",
+          "ಏನಿದು? (Enidu?)"
+        ],
+        "answer": "ಶುಭೋದಯ (Shubhodaya)",
+        "explanation": "'ಶುಭೋದಯ' (Shubhodaya) is composed of 'Shubha' (good) and 'Udaya' (morning), meaning 'Good morning'.",
+        "source": "ai-generated"
+      },
+      {
+        "id": "c3b2a1d0-e9f8-4a7b-9c6d-5e4f3a2b1c0d",
+        "type": "multiple-choice",
+        "classLevel": "beginner",
+        "topic": "Greetings and Daily Communication",
+        "difficulty": "easy",
+        "prompt": "How do you respond to 'Neevu heggiddiri?' (How are you?) in Kannada?",
+        "options": [
+          "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ (Naanu chennagiddene)",
+          "ನನ್ನ ಹೆಸರು ರಮೇಶ್ (Nanna hesaru Ramesh)",
+          "ಊಟ ಆಯ್ತಾ? (Oota aayta?)",
+          "ನಮಸ್ಕಾರ (Namaskara)"
+        ],
+        "answer": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ (Naanu chennagiddene)",
+        "explanation": "'ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ' translates to 'I am fine,' which is the appropriate response to the question 'How are you?'",
+        "source": "ai-generated"
+      }
+    ],
+    "answers": {},
+    "totalQuestions": 5,
+    "startedAt": "2026-10-24T14:35:14.044Z",
+    "status": "completed",
+    "score": 0,
+    "completedAt": "2026-10-24T14:35:21.364Z"
+  }
+]
