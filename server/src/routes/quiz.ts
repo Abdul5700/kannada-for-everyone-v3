@@ -2,6 +2,7 @@ import { Router, Request, Response } from 'express';
 import { z } from 'zod';
 import { asyncHandler } from '../middleware/errorHandler';
 import { getAIProvider } from '../providers';
+import { MockAIProvider } from '../providers/mockProvider';
 import { aiLimiter } from '../middleware/rateLimiter';
 import { db } from '../database/init';
 
@@ -26,17 +27,29 @@ router.post('/generate', aiLimiter, asyncHandler(async (req: Request, res: Respo
     res.status(400).json({ success: false, error: parsed.error.errors[0].message });
     return;
   }
-  const provider = getAIProvider();
-  const result = await provider.generateQuiz({
-    classLevel: parsed.data.classLevel,
-    topic: parsed.data.topic,
-    difficulty: parsed.data.difficulty,
-    count: parsed.data.count,
-    direction: parsed.data.direction,
-    questionTypes: parsed.data.questionTypes,
-    batchNumber: parsed.data.batchNumber,
-    excludeQuestions: parsed.data.excludeQuestions,
-  });
+  let provider = getAIProvider();
+  let result;
+  try {
+    result = await provider.generateQuiz({
+      classLevel: parsed.data.classLevel,
+      topic: parsed.data.topic,
+      difficulty: parsed.data.difficulty,
+      count: parsed.data.count,
+      direction: parsed.data.direction,
+      questionTypes: parsed.data.questionTypes,
+      batchNumber: parsed.data.batchNumber,
+      excludeQuestions: parsed.data.excludeQuestions,
+    });
+  } catch (aiErr: any) {
+    console.error('[quiz/generate] AI error, falling back to mock:', aiErr?.message);
+    provider = new MockAIProvider();
+    result = await provider.generateQuiz({
+      classLevel: parsed.data.classLevel,
+      topic: parsed.data.topic,
+      difficulty: parsed.data.difficulty,
+      count: parsed.data.count,
+    });
+  }
 
   const sessionId = `qs_${Date.now()}`;
   const session = {
