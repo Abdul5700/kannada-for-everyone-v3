@@ -296,17 +296,17 @@ export const Homework: React.FC = () => {
               </div>
 
               <div className="space-y-3 pt-2">
-                {assignment.questions?.map((q: any, i: number) => {
-                  const fb = submission.feedback?.[q.id];
-                  const userAnswer = submission.answers?.[q.id];
-                  const isCorrect = fb?.startsWith('✓') || fb?.toLowerCase().includes('correct');
+                {(assignment?.questions || []).map((q: any, i: number) => {
+                  const fb = submission?.feedback?.[q.id];
+                  const userAnswer = submission?.answers?.[q.id];
+                  const isCorrect = typeof fb === 'string' && (fb.startsWith('✓') || fb.toLowerCase().includes('correct'));
                   return (
                     <div
                       key={q.id || i}
                       className={`p-4 rounded-xl border text-sm space-y-2 ${
                         isCorrect
-                          ? 'border-green-200 bg-green-50/60'
-                          : 'border-red-200 bg-red-50/60'
+                          ? 'border-emerald-200 bg-emerald-50/70'
+                          : 'border-rose-200 bg-rose-50/70'
                       }`}
                     >
                       <div className="flex items-start justify-between gap-2">
@@ -314,7 +314,7 @@ export const Homework: React.FC = () => {
                           <span className="text-maroon-700 mr-1 font-bold">Q{i + 1}.</span> {q.prompt || q.question}
                         </p>
                         <span className={`text-xs px-2 py-0.5 rounded font-bold ${
-                          isCorrect ? 'bg-green-200 text-green-900' : 'bg-red-200 text-red-900'
+                          isCorrect ? 'bg-emerald-100 text-emerald-800' : 'bg-rose-100 text-rose-800'
                         }`}>
                           {isCorrect ? 'Correct' : 'Incorrect'}
                         </span>
@@ -323,14 +323,14 @@ export const Homework: React.FC = () => {
                       <div className="text-xs space-y-1 pt-1 border-t border-black/5">
                         <p className="text-gray-700">
                           <span className="font-semibold">Your Answer:</span>{' '}
-                          <span className={`font-kannada font-medium ${isCorrect ? 'text-green-800' : 'text-red-700 font-bold'}`}>
+                          <span className={`font-kannada font-medium ${isCorrect ? 'text-emerald-800' : 'text-rose-700 font-bold'}`}>
                             {userAnswer || '(No answer provided)'}
                           </span>
                         </p>
                         <p className="text-gray-700">
                           <span className="font-semibold">Result / Correct Answer:</span>{' '}
                           <span className="font-kannada font-medium text-gray-900">
-                            {fb || `Correct answer: ${q.answer}`}
+                            {fb || (q.answer ? `Correct answer: ${q.answer}` : 'Evaluated')}
                           </span>
                         </p>
                         {q.explanation && (
