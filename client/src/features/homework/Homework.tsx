@@ -261,17 +261,85 @@ export const Homework: React.FC = () => {
 
           {/* Submission Evaluation */}
           {submission && (
-            <div className="space-y-4 pt-4 border-t border-gray-200">
-              <h4 className="font-bold text-lg text-gray-900 flex items-center gap-2">
-                <CheckCircle2 className="text-green-600" /> Evaluation Results
-              </h4>
-              <div className="p-4 rounded-xl bg-gold-50 border border-gold-200 text-sm space-y-2">
-                <p>
-                  <strong>Score:</strong> {submission.score || 0} / 100
+            <div className="space-y-4 pt-6 border-t border-gray-200">
+              <div className="flex items-center justify-between">
+                <h4 className="font-bold text-lg text-gray-900 flex items-center gap-2">
+                  <CheckCircle2 className="text-green-600" /> Evaluation Results
+                </h4>
+                <Badge variant={submission.score >= 70 ? 'green' : submission.score >= 40 ? 'gold' : 'maroon'}>
+                  Score: {submission.score || 0}%
+                </Badge>
+              </div>
+
+              <div className="p-4 rounded-xl bg-gold-50 border border-gold-200 text-sm space-y-1">
+                <p className="font-semibold text-gray-900">
+                  Overall Score: <span className="text-maroon-800 text-base font-bold">{submission.score || 0}%</span>
                 </p>
-                <p>
-                  <strong>Feedback:</strong> {submission.feedback || 'Good job!'}
+                <p className="text-gray-600 text-xs">
+                  Review the question-by-question breakdown below with correct answers and feedback:
                 </p>
+              </div>
+
+              <div className="space-y-3 pt-2">
+                {assignment.questions?.map((q: any, i: number) => {
+                  const fb = submission.feedback?.[q.id];
+                  const userAnswer = submission.answers?.[q.id];
+                  const isCorrect = fb?.startsWith('✓') || fb?.toLowerCase().includes('correct');
+                  return (
+                    <div
+                      key={q.id || i}
+                      className={`p-4 rounded-xl border text-sm space-y-2 ${
+                        isCorrect
+                          ? 'border-green-200 bg-green-50/60'
+                          : 'border-red-200 bg-red-50/60'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between gap-2">
+                        <p className="font-semibold text-gray-900 font-kannada">
+                          <span className="text-maroon-700 mr-1 font-bold">Q{i + 1}.</span> {q.prompt || q.question}
+                        </p>
+                        <span className={`text-xs px-2 py-0.5 rounded font-bold ${
+                          isCorrect ? 'bg-green-200 text-green-900' : 'bg-red-200 text-red-900'
+                        }`}>
+                          {isCorrect ? 'Correct' : 'Incorrect'}
+                        </span>
+                      </div>
+
+                      <div className="text-xs space-y-1 pt-1 border-t border-black/5">
+                        <p className="text-gray-700">
+                          <span className="font-semibold">Your Answer:</span>{' '}
+                          <span className={`font-kannada font-medium ${isCorrect ? 'text-green-800' : 'text-red-700 font-bold'}`}>
+                            {userAnswer || '(No answer provided)'}
+                          </span>
+                        </p>
+                        <p className="text-gray-700">
+                          <span className="font-semibold">Result / Correct Answer:</span>{' '}
+                          <span className="font-kannada font-medium text-gray-900">
+                            {fb || `Correct answer: ${q.answer}`}
+                          </span>
+                        </p>
+                        {q.explanation && (
+                          <p className="text-gray-600 italic font-kannada pt-0.5">
+                            💡 {q.explanation}
+                          </p>
+                        )}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+
+              <div className="pt-3 flex justify-end">
+                <Button
+                  variant="primary"
+                  onClick={() => {
+                    setSubmission(null);
+                    setAnswers({});
+                  }}
+                  className="gap-2"
+                >
+                  <RotateCcw size={16} /> Retake / Try Another Topic
+                </Button>
               </div>
             </div>
           )}
