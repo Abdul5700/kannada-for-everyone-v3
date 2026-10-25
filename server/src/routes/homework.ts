@@ -2,6 +2,7 @@ import { Router, Request, Response } from 'express';
 import { z } from 'zod';
 import { asyncHandler } from '../middleware/errorHandler';
 import { getAIProvider } from '../providers';
+import { MockAIProvider } from '../providers/mockProvider';
 import { aiLimiter } from '../middleware/rateLimiter';
 import { db } from '../database/init';
 
@@ -20,13 +21,30 @@ router.post('/generate', aiLimiter, asyncHandler(async (req: Request, res: Respo
     res.status(400).json({ success: false, error: parsed.error.errors[0].message });
     return;
   }
-  const provider = getAIProvider();
-  const quizResult = await provider.generateQuiz({
-    classLevel: parsed.data.classLevel,
-    topic: parsed.data.topic,
-    difficulty: 'medium',
-    count: parsed.data.count,
-  });
+
+  let provider = getAIProvider();
+  let quizResult;
+  let fallbackNote: string | undefined;
+
+  try {
+    quizResult = await provider.generateQuiz({
+      classLevel: parsed.data.classLevel,
+      topic: parsed.data.topic,
+      difficulty: 'medium',
+      count: parsed.data.count,
+    });
+  } catch (aiErr: any) {
+    console.error('[homework/generate] AI provider error, falling back to mock:', aiErr?.message);
+    provider = new MockAIProvider();
+    quizResult = await provider.generateQuiz({
+      classLevel: parsed.data.classLevel,
+      topic: parsed.data.topic,
+      difficulty: 'medium',
+      count: parsed.data.count,
+    });
+    fallbackNote = aiErr?.message || 'AI service temporarily unavailable, generated template assignment.';
+  }
+
   const assignment = {
     id: `hw_${Date.now()}`,
     learnerId: parsed.data.learnerId,
@@ -36,6 +54,7 @@ router.post('/generate', aiLimiter, asyncHandler(async (req: Request, res: Respo
     questions: quizResult.questions,
     generatedAt: new Date().toISOString(),
     source: provider.name,
+    fallbackNote,
   };
   db.insert('homework_assignments', assignment);
   res.json({ success: true, data: assignment });

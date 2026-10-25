@@ -18,6 +18,7 @@ export const Homework: React.FC = () => {
   const [assignment, setAssignment] = useState<any>(null);
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [submission, setSubmission] = useState<any>(null);
+  const [error, setError] = useState<string | null>(null);
 
   // Combine topics from all modules
   const allCombinedTopics = React.useMemo(() => {
@@ -49,14 +50,20 @@ export const Homework: React.FC = () => {
   const handleGenerate = async () => {
     if (!activeTopicString) return;
     setLoading(true);
+    setError(null);
     setSubmission(null);
     setAnswers({});
     const lid = getLearnerId();
     try {
       const data = await generateHomework(classLevel, activeTopicString, 4, lid);
-      setAssignment(data);
-    } catch (err) {
+      if (data && data.questions && data.questions.length > 0) {
+        setAssignment(data);
+      } else {
+        setError('No questions could be generated for this topic. Please try another topic or retry.');
+      }
+    } catch (err: any) {
       console.error(err);
+      setError(err?.response?.data?.error || err?.message || 'Failed to generate assignment. Please try again.');
     } finally {
       setLoading(false);
     }
@@ -65,12 +72,14 @@ export const Homework: React.FC = () => {
   const handleSubmit = async () => {
     if (!assignment?.id) return;
     setEvaluating(true);
+    setError(null);
     const lid = getLearnerId();
     try {
       const data = await evaluateHomework(assignment.id, answers, lid);
       setSubmission(data);
-    } catch (err) {
+    } catch (err: any) {
       console.error(err);
+      setError(err?.response?.data?.error || err?.message || 'Failed to submit answers for evaluation.');
     } finally {
       setEvaluating(false);
     }
@@ -94,6 +103,12 @@ export const Homework: React.FC = () => {
               <BookOpen size={18} className="text-maroon-700" /> Generate New Class Assignment
             </h3>
           </div>
+
+          {error && (
+            <div className="p-3 bg-red-50 border border-red-200 text-red-700 rounded-lg text-xs font-medium">
+              ⚠️ {error}
+            </div>
+          )}
 
           <div className="grid sm:grid-cols-2 gap-4">
             <div className="sm:col-span-2">
